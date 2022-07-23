@@ -1,0 +1,778 @@
+id,question,letter,answer,img
+0,Którego polecenia nalezy użyć aby wyraz TEKST został wyświetleny w kolorze czarnym w oknie przeglądarki internetowej?,C,< font color="#000000" > TEKST < /font >,0
+1,W poleceniach których celem jest odtwarzanie na stronie internetowej dźwięku jako podkładu muzycznego NIE wykorzystuje się atrybutu,D,href="C:/100.wav",0
+2,Jakiego znacznika należy użyć aby przejść do kolejnej linii tekstu nie tworząc akapitu na stronie interenetowej ?,C,< br >,0
+3,Kaskadowe arkusze stylów tworzy się w celu,A,ułatwienia formatowania strony,0
+4,W podanej regule CSS: h1 {color: blue} h1 oznacza,C,selektor,0
+5,Edytor spełniający założenia WYSIWYG musi umożliwiać,D,uzyskanie zbliżonego wyniku tworzenej strony do jej obrazu w przegladarce interenetowej,0
+6,Do graficznego tworzenia stron internetowych należy wykorzystać.,C,program typu WYSIWYG,0
+7,W procesie walidacji stron internetowych nie bada się,D,źródła pochodzenia narzędzi edytorskich,0
+8,Model opisu przestrzeni barw o parametrach: odcień nasycenie i jasność to,A,HSV,0
+9,Wskaż model barw który stosuje się do wyświetlania kolorów na ekranie monitora komputerowego,B,RGB,0
+10,Który parametr obiektu graficznego ulegnie zmianie po modyfikacji wartości kanału alfa?,B,Przezroczystość,0
+11,Jakiego formatu należy użyć do zapisu obrazu z kompresją stratną?,D,JPEG,0
+12,Najprostszy sposób zamiany obiektu oznaczonego cyfrą 1 na obiekt oznaczony cyfrą 2 polega na,D,geometrycznym transformowaniu obiektu,1
+13,Jak nazywa się proces przedstawienia we właściwej dla danego środowiska formie informacji zawartej w dokumencie elektronicznym?,C,Renderowanie,0
+14,Proces filtracji sygnału wejściowego w dziedzinie czasu obejmujący zasadę superpozycji związany jest filtrem,A,liniowym,0
+15,Jak nazywa się podzbiór strukturalnego języka zapytań związany z formułowaniem zapytań do bazy danych za pomocą polecenia SELECT?,D,SQL DQL (ang. Data Query Language),0
+16,Jakie sa nazwy typowych poleceń języka zapytań SQL związane z wykonywaniem operacji na danych SQL DML (np.: umieszczanie danych w bazie kasowanie dokonywanie zmian w danych)?,D,DELETE INSERT UPDATE,0
+17,Jak posortowana będzie lista utworzona ze wszystkich kolumn tabeli uczniowie i zawierająca uczniów ze średnią większą od 5 która zostanie zwrócona jako wynik przedstawionego zapytania?,B,Malejąco według parametru klasa,1
+18,Według którego parametru oraz dla ilu tabel zostaną zwrócone wiersze na liście w wyniku przedstawionego zapytania?,D,Według parametru nr_id dla wszystkich tabel,1
+19,Który z obiektów relacyjnej bazy danych będący kodem języka SQL może być wywoływany w zapytaniach modyfikujących kolumny danych widoczne jako tabela bez względu na to czy jest tworzony programowo czy dynamicznie?,D,Funkcja zdefiniowana,0
+20,Jak nazywa się element bazy danych za pomocą którego można jedynie odczytać dane z bazy prezentując je w postaci tekstu lub wykresu?,B,Raport,0
+21,Jakiego typu specjalizowane oprogramowanie narzędziowe należy zainstalować aby umożliwić wykonywanie jego użytkownikowi operacji na zgromadzonych danych?,B,System Zarządzania Bazą Danych (SZBD),0
+22,Co należy zastosować w organizacji danych aby zapytania w bazie danych były wykonywane szybciej?,B,Indeksy,0
+23,W programie Microsoft Access formą zabezpieczeń dostępu do danych związaną z tabelą i kwerendą jest,B,przypisanie uprawnień,0
+24,Które z wymienionych osób odpowiadają za przygotowanie systemu bazy danych do pracy produkcyjnej w sposób ciągły zarządzanie użytkownikami i instalowanie nowych wersji systemu bazodanowego?,B,Administratorzy systemu bazy danych,0
+25,Z jakimi mechanizmami nadawania zabezpieczeń dającymi możliwości wykonywania operacji na bazie danych związane są zagadnienia zarządzania kontami użytkownikami i uprawnieniami?,D,Z przywilejami systemowymi,0
+26,Metoda udostępniania bazy danych w programie Microsoft Access dotycząca wszystkich obiektów bazy umieszczonych na dysku sieciowym i używanych jednocześnie przez różne osoby nosi nazwę,A,folderu sieciowego,0
+27,Jakie należy posiadać uprawnienia aby wykonać i odtworzyć kopię zapasową bazy danych Microsoft SQL Server 2005 Express?,D,Administrator systemu,0
+28,Typ zmiennej w języku JavaScript,C,następuje poprzez przypisanie wartości,0
+29,Zmienne typu int odnoszą się do liczb,B,całkowitych,0
+30,Co definiuje w języku C++ przedstawiony fragment kodu?,C,Typ strukturalny składający się z trzech pól,1
+31,Sposób programowania w którym ciąg poleceń (sekwencji instrukcji) przekazywanych komputerowi jest postrzegany jako program nosi nazwę programowania,D,imperatywnego,0
+32,Które wartości będą kolejno wypisane w wyniku działania przedstawionego skryptu,A,2 2 1,1
+33,Fragment kodu prezentuje składnię języka,C,PHP,1
+34,Jaki program komputerowy przekształca kod źródłowy napisany w konkretnym języku programowania na język komputera?,B,Kompilator,0
+35,Jak nazywa się program który wykonuje instrukcje zawarte w kodzie źródłowym tworzonego programu bez uprzedniego generowania programu wynikowego?,A,Interpreter,0
+36,Który język skryptowy ogólnego przeznaczenia należy wykorzystać do tworzenia aplikacji WWW zagnieżdżanych w języku HTML i uruchamianych po stronie serwera?,C,PHP,0
+37,Jak nazywa się technika umożliwiająca otwarcie połączenia klienta z serwerem i komunikację bez przeładowywania całej strony WWW w sposób asynchroniczny ?,C,AJAX,0
+38,Jak nazywa się element oznaczony znakiem zapytania w strukturze platformy .NET który umożliwia tworzenie własnych aplikacji z użyciem frameworków i zamianę kompilowanego kodu pośredniego na kod maszynowy procesora zainstalowanego w komputerze?,D,Wspólne środowisko uruchomieniowe (CLR),1
+39,Jakiego rodzaju mechanizm kontroli bezpieczeństwa wykonywania aplikacji zawiera środowisko uruchomieniowe platformy .NET Framework?,D,Mechanizm wykonywania aplikacji oparty na uprawnieniach kodu (CAS - Code Access Security) i na rolach (RBS - Role-Based Security),0
+40,Co to jest DBMS?,B,System zarządzania bazą danych,0
+41,Który z odsyłaczy posiada poprawną konstrukcję?,D,< a href="mailto:adres" > tekst < /a >,0
+42,Fragment kodu napisany w języku HTML zamieszczony w ramce przedstawia listę,B,numerowaną,1
+43,Polecenie colspan służy do łączenia komórek tabeli w poziomie natomiast rowspan w pionie. Którą z tabel wyświetli fragment kodu napisany w języku HTML?,B,B,1
+44,W znaczniku <head> (w części <meta ... >) strony www NIE umieszcza się informacji dotyczącej,C,typu dokumentu,0
+45,Wskaż sposób w jaki należy odwołać się do pliku default.css jeśli index.html znajduje się bezpośrednio w katalogu ?,A,< link rel="stylesheet" type="text/css" href="./style/default.css" / >,1
+46,Wskaż stwierdzenie które jest prawdziwe dla następującej definicji stylu:,B,Zdefiniowano dwie klasy,1
+47,W palecie kolorów RGB kolor żółty jest połączeniem dwóch kolorów: zielonego i czerwonego. Który z kodów szesnastkowych oznacza kolor żółty?,C,#FFFF00,0
+48,Który z formatów NIE pozwala na zapis plików animowanych?,B,ACE,0
+49,Który z formatów graficznych pozwala na zapis przejrzystego tła?,A,GIF,0
+50,Proces walidacji strony internetowej to,B,sprawdzenie jej w celu wyeliminowania błędów,0
+51,Które oprogramowanie NIE JEST systemem zarządzania treścią (CMS)?,B,Apache,0
+52,Który z formatów zapewnia największa redukcję rozmiaru pliku dźwiękowego?,C,MP3,0
+53,Wskaż prawidłową kolejność tworzenia bazy danych,C,Określenie celu stworzenie tabel utworzenie relacji normalizacja,0
+54,Wskaż typ relacji pomiędzy tabelami: Tabela1 i Tabela3,D,Wiele do wielu,1
+55,Które z pól są umieszczone w formularzu?,B,Input(Text) Select Input(Radio) Input(Radio) Input(Submit) Input(Reset),1
+56,Którą z właściwości pola tabeli należy zdefiniować aby pole przyjmowało dane składające się wyłącznie z cyfr?,C,Maskę wprowadzania,1
+57,Którego ze słów kluczowych języka SQL należy użyć aby wyeliminować duplikaty?,B,DISTINCT,0
+58,Które ze stwierdzeń prawidłowo charakteryzuje zdefiniowaną tabelę: CREATE TABLE dane (kolumna INTEGER(3));,B,Tabela o nazwie posiada jedną kolumnę liczb całkowitych,0
+59,Polecenie REVOKE SELECT ON nazwa1 FROM nazwa2 w języku SQL umożliwia,B,odbieranie uprawnień użytkownikowi,0
+60,Które polecenie wydane z konsoli systemu operacyjnego zawierające w swojej składni opcję --repair umożliwia naprawę bazy danych?,A,mysqlcheck,0
+61,Które polecenie wydane z konsoli systemowej dokona przywrócenia bazy danych?,C,mysql -u root -p baza < kopia.sql,0
+62,Polecenie w języku SQL GRANT ALL PRIVILEGES ON klienci TO pracownik,D,nadaje wszystkie uprawnienia do tabeli użytkownikowi,0
+63,Która z wymienionych funkcji sortowania wykorzystywana w języku PHP sortuje tablicę asocjacyjną według indeksów,D,ksort(),0
+64,W skrypcie PHP należy utworzyć cookie o nazwie które przyjmie wartość . Cookie ma być dostępne przez jedną godzinę od jego utworzenia. W tym celu należy w skrypcie PHP użyć funkcji:,C,setcookie("owoce""jabłko"time()+3600);,0
+65,Wskaż słowo kluczowe w języku C++ dodawane przed wbudowanym typem danych które przesuwa zakres liczby wyłącznie nieujemne,D,unsigned,0
+66,W językach programowania tylko zmienna jednego typu wbudowanego może przyjmować wyłącznie dwie wartości. Jest to typ,A,logiczny,0
+67,Instrukcja języka PHP tworząca obiekt dla zdefiniowanej w ramce klasy ma postać,B,pkt = new Punkt();,1
+68,Wskaż wynik wykonania skryptu napisanego w języku PHP,A,A,1
+69,Które ze stwierdzeń dotyczących języków programowania NIE jest prawdziwe,C,SQL jest językiem programowania strukturalnego,0
+70,Jaka wartość zostanie wypisana na standardowym wyjściu dla zamieszczonego w ramce fragmentu programu napisanego w języku C++,C,3,1
+71,Wskaż stwierdzenie które nie jest prawdziwe dla następującej definicji funkcji w języku C++?,A,Funkcja zwraca wartość,1
+72,Element zadeklarowany w języku C++ double *x; to,D,Wskaźnik,0
+73,Wskaż prawidłową kolejność tworzenia aplikacji,B,Analiza wymagań klienta specyfikacja wymagań tworzenie testy wdrażanie,0
+74,Jaką wartość zwróci funkcja zao zdefiniowana w języku C++ wywołana z aktualnym parametrem 3.55,B,4,1
+75,Proces tłumaczenia kodu źródłowego pisanego przez programistę na zrozumiały dla komputera kod maszynowy to,C,kompilowanie,0
+76,Które ze stwierdzeń w odniesieniu do zamieszczonej w ramce definicji funkcji jest poprawne?,D,Wczytanie tekstu zakończy się gdy tekst będzie się składał przynajmniej z 3 znaków,1
+77,Po wykonaniu zamieszczonego w ramce skryptu napisanego w języku JavaScript w przeglądarce zostanie wypisana wartość,B,125,1
+78,Poprzez deklarację var x="true"; w języku JavieScript tworzy się zmienną typu,C,String (ciąg znaków),0
+79,Platforma wspierająca programowanie w technologii .NET to,C,framework,0
+80,Proces w którym wykrywa się i usuwa błędy w kodzie źródłowym programów to,B,Debugowanie,0
+81,Aby ustawić tło na stronie www należy użyć polecenia,B,< body bgcolor="" > < /body >,0
+82,Parametr face znacznika <font> służy do określenia,B,nazwy czcionki,0
+83,Kodowanie w standardzie ISO-8859-2 stosowane jest w celu poprawnego wyświetlenia,B,polskich liter takich jak: ś ć ń ó ą,0
+84,Zamieszczony w ramce kod wyświetla tabelę składajacą się z,C,jednego wiersza i dwóch kolumn,1
+85,Kaskadowe arkusze stylów tworzy się w celu,D,definiowania sposobu formatowania elementów strony internetowej,0
+86,Które polecenie w CSS służy do załączenia zewnętrznego arkusza stylów?,B,import,0
+87,Selektor CSS a:link {color:red} zawarty w kaskadowych arkuszach stylów definiuje,B,pseudoklasę,0
+88,Jak nazywa się edytor wspomagający tworzenie stron internetowych którego sposób działania można w polskim tłumaczeniu określić jako: otrzymujesz to co widzisz?,B,WYSIWYG,0
+89,Kolor 255 12 12 w modelu RGB na stronie www powinien być zapisany w postaci,D,#FF0C0C,0
+90,CMYK to zestaw czterech podstawowych kolorów farb drukarskich:,D,turkusowego purpurowego żółtego czarnego,0
+91,Cechą formatu PNG jest,B,bezstratna kompresja,0
+92,Saturacja koloru nazywana jest inaczej,B,nasyceniem koloru,0
+93,Kanał alfa służy do zdefiniowania,B,przezroczystość obiektu graficznego,0
+94,Częstotliwość próbkowania ma wpływ na,A,jakość cyfrowego dzwięku,0
+95,Wysokość dźwięku zależy od,D,częstotliwości drgania fali akustycznej,0
+96,Typ stało-znakowy w języku SQL to,A,char,0
+97,Operator arytmetyczny modulo w języku SQL to,D,%,0
+98,Polecenie w języku SQL ALTER TABLE USA... ma za zadanie,B,modyfikację tabeli USA,0
+99,Kod: SELECT imie pesel wiek FROM dane WHERE wiek IN (1830) spowoduje wybranie:,D,imion numerów PESEL i wieku osób w wieku równym 18 lub 30 lat,0
+100,Aby policzyć wszystkie wiersze tabeli Koty należy użyć polecenia:,A,SELECT COUNT(*) FROM Koty,0
+101,Aby podczas tworzenia tabeli utworzyć klucz obcy na wielu kolumnach należy użyć polecenia,C,CONSTRAINT fk_osoba_uczen FOREIGN KEY (nazwisko imie) REFERENCES osoby (nazwiskoimie),0
+102,W algebrze relacji operacja selekcji polega na,B,wybraniu krotek spełniających określone warunki,0
+103,Relacja w bazach danych jest,A,logicznym połączeniem tabel,0
+104,Wskaż poprawną kolejność etapów projektowania relacyjnej bazy danych,D,Określenie zbioru danych Selekcja Określenie kluczy podstawowych tabel Określenie relacji,0
+105,Formularze do obsługi baz danych tworzy się w celu,D,wygodniejszego wprowadzania edytowania i usuwania danych,0
+106,Integralność referencyjna w modelu relacyjnych baz danych oznacza że,D,wartość klucza obcego w danej tabeli musi być albo równa wartości klucza głównego w tabeli z nia powiązanej albo równa wartości NULL,0
+107,Deklaracja w języku JavaScript: var x=true; powoduje że zmienna x jest typu,A,logicznego,0
+108,Obiekt typu array w języku Javascript służy do przechowywania,B,wielu wartości dowolnego typu,0
+109,Ukrywanie pewnych pól lub metod obiektów danej klasy tak aby były one dostępne tylko metodom wewnętrznym tej klasy lub funkcjom zaprzyjaźnionym to,B,hermetyzacja,0
+110,Odwoływanie funkcji do samej siebie to,B,rekurencja,0
+111,W języku PHP zmienna $_GET jest zmienną,A,predefiniowaną używaną do przekazywania danych do skryptów PHP poprzez adres strony,0
+112,W języku PHP w instrukcji switch musi występować,B,konstrukcja switch(wyrażenie),0
+113,Konstruktor w języku PHP jest metodą o nazwie,D,_construct,0
+114,Debugger to program służący do,C,wyszukiwania błędów w kodzie programu,0
+115,Kod zamieszczony w ramce spowoduje wypisanie liczb,C,2 4 6 8 10,1
+116,Który kod jest alternatywny do kodu zamieszczonego w ramce?,A,A,1
+117,Zamieszczony w ramce fragment skryptu w języku JavaScript,C,przypisze zmiennej s długość napisu ze zmiennej t,1
+118,Zamieszczony w ramce fragment kodu w JavaScript wypisze,A,"ze",1
+119,Który fragment kodu JavaScript zwróci wartość true?,D,"def" > "abc",0
+120,W kodzie PHP znak "//" oznacza,D,początek komentarza jednoliniowego,0
+121,Zapisując hasło użytkownika serwisu WWW (np. bankowości internetowej) w celu jego zabezpieczenia przed odtajnieniem zwykle używa się funkcji,A,klucza,0
+122,W celu określenia wysokości obrazka wyświetlonego na stronie WWW należy wykorzystać właściwość CSS o nazwie,C,height,0
+123,Aby ustawić czcionkę Verdana w kodzie CSS należy wykorzystać właściwość,A,font-family: Verdana;,0
+124,Funkcja zapisana językiem PHP służy do,D,pobrania danych z bazy danych,1
+125,Kwerenda pozwalająca na wprowadzenie zmian w wielu rekordach lub przeniesienie wielu rekordów przy użyciu pojedynczej operacji nosi nazwę kwerendy,B,funkcjonalnej,0
+126,Wskaż rezultat działania fragmentu kodu JavaScript,B,Dodanie akapitu na koniec strony,1
+127,Fizyczny model replikacji bazy danych przedstawiony na rysunku jest modelem,D,centralnego wydawcy,1
+128,Za pomocą którego protokołu należy wysłać pliki na serwer WWW?,B,FTP,0
+129,Wynikiem działania zamieszczonej pętli zapisanej językiem PHP jest wypisanie kolejnych liczb,A,od 10 do 1,1
+130,Które z poleceń naprawi uszkodzoną tabelę w języku SQL?,B,REPAIR TABLE tblname,0
+131,Który z wymienionych formatów plików graficznych obsługuje przezroczystość?,B,PNG,0
+132,Który zapis stylu CSS ustawi tło bloku na kolor niebieski?,D,div {background-color: blue;},0
+133,Domyślna nazwa pliku konfiguracyjnego serwera Apache to,D,.htaccess,0
+134,Organizacja zajmująca się ustalaniem standardu dla języka HTML nosi nazwę,A,W3C,0
+135,Który z wymienionych systemów nie jest systemem CMS?,B,Adobe Flash,0
+136,Która ze zdefiniowanych funkcji w języku PHP jako wynik zwraca połowę kwadratu wartości przekazanej?,C,function licz($a) { return $a*$a/2; },0
+137,W strukturalnych językach programowania w celu przechowania informacji o 50 uczniach (ich imionach nazwiskach średniej ocen) należy użyć,A,tablicy 50 elementów o składowych strukturalnych,0
+138,Aby zobaczyć wyniki działania skryptu napisanego w języku PHP będącego elementem strony WWW musi być on,A,zinterpretowany po stronie serwera,0
+139,Projektowanie logicznego układu witryny polega na,A,rozmieszczeniu elementów w konkretnych miejscach witryny,0
+140,Prosta animacja może być zapisana w formacie,C,GIF,0
+141,Która z instrukcji umożliwia wysłanie tekstu do przeglądarki?,A,echo,0
+142,Aby stworzyć tabelę w bazie danych należy zastosować polecenie SQL,D,CREATE TABLE,0
+143,Zdarzenie JavaScript będące reakcją na pojedynczo kliknięty dowolny element strony nosi nazwę,A,onClick,0
+144,W skład typowego frameworka wchodzą,A,zarządzanie komunikacją z bazą danych mechanizm uruchamiania i przetwarzania akcji,0
+145,W celu stworzenia relacji wiele do wielu łączącej tabele A i B wystarczy że,C,zdefiniuje się trzecią tabelę z kluczami obcymi do tabel A i B,0
+146,W celu zapewnienia spójności danych w bazie programu Microsoft Access należy skorzystać,A,z więzów integralności,0
+147,W załączonym fragmencie kodu CSS kolor jest zapisany w postaci,D,szesnastkowej,1
+148,W języku skryptowym JavaScript zmienne mogą być deklarowane,A,w momencie pierwszego użycia zmiennej,0
+149,W językach programowania zmienna typu integer służy do przechowywania,B,liczby całkowitej,0
+150,Jeśli rozmiar pliku graficznego jest zbyt duży do publikacji w Internecie należy,B,zmniejszyć jego rozdzielczość,0
+151,Które z poleceń umożliwia dodanie kolumny zadaniekompletne do tabeli zadania?,A,ALTER TABLE zadania ADD COLUMN zadaniekompletne int,0
+152,W bazie danych w celu uporządkowania listy uczniów według roku urodzenia należy użyć polecenia,B,SELECT imienazwiskoklasa from uczniowie order by rok_urodzenia,0
+153,Wskaż dwa sposoby zabezpieczenia bazy danych Microsoft Access,A,Ustalanie hasła do otwarcia bazy danych oraz zabezpieczeń na poziomie użytkownika,0
+154,W zamieszczonym przykładzie pseudoklasa hover sprawi że styl pogrubiony będzie przypisany,A,odnośnikowi w momencie kiedy najechał na niego kursor myszy,1
+155,Certyfikat SSL jest stosowany do,B,zidentyfikowania właściciela domeny,0
+156,W języku SQL przywilej SELECT polecenia GRANT pozwala użytkownikowi baz danych na,A,odczyt danych z tabeli,0
+157,W języku HTML atrybut alt znacznika img jest wykorzystywany w celu zdefiniowania,B,tekstu który będzie wyświetlony jeśli nie może być wyświetlona grafika,0
+158,Warunek zapisany językiem PHP wypisze liczbę gdy,A,jest ona parzysta,1
+159,Analizując przedstawiony kod zapisany w języku HTML można stwierdzić że w przeglądarce,B,blok B będzie oddalony od bloku A o 20 px,1
+160,Baza danych zawiera tabelę o nazwie pracownicy o polach: nazwisko imie pensja wiek. Jak wygląda składnia polecenia wyznaczającego średnią pensję pracowników?,C,select AVG (pensja) from pracownicy,0
+161,Do reprezentacji liczb zmiennoprzecinkowych w języku C stosowany jest typ,D,double,0
+162,Polecenie SQL o treści: UPDATE artykuly SET cena = cena * 0.7 WHERE kod = 2; oznacza,B,w tabeli artykuly obniża wartość każdego pola cena dla którego pole kod jest równe 2,0
+163,Do edycji grafiki wektorowej stosuje się program,D,Corel Draw,0
+164,W programowaniu obiektowym mechanizm współdzielenia pól i metod klasy w taki sposób że klasa pochodna zawiera metody zdefiniowane w klasie bazowej nazywa się,D,dziedziczeniem,0
+165,Który z wymienionych znaczników języka HTML nie jest stosowany w celu formatowania tekstu?,C,<div>,0
+166,Aby zdefiniować w języku HTML listę nienumerowaną należy użyć znacznika,D,<ul>,0
+167,W języku CSS właściwość font-size przyjmuje według słów kluczowych wartości,D,ze zbioru xx-small x-small medium large x-large xx-large,0
+168,W języku CSS w celu zdefiniowania wewnętrznego górnego marginesu czyli odstepu między elementem a otaczającym go obramowaniem należy użyć polecenia,A,padding-top,0
+169,Funkcja edytor WYSIWYG Adobe Dreamweaver służy do,A,wyświetlania interaktywnego drzewa struktury HTML dla zawartości statycznej i dynamicznej,0
+170,Aby witryna internetowa prawidłowo skalowała się w urządzeniach mobilnych należy wielkość czcionki zdefiniować,B,w procentach,0
+171,Znacznik meta języka HTML należy umieścić,B,w części nagłówkowej witryny internetowej,0
+172,Prawidłowy zgodny ze standardem języka XHTML zapis samozamykającego się znacznika odpowiadającego za łamanie linii ma postać,B,<br />,0
+173,Najprostszą i najmniej pracochłonną metodą przetestowania działania witryny internetowej w wielu przeglądarkach i ich różnych wersjach jest,B,skorzystanie z emulatora przeglądarek internetowych np. Browser Sandbox,0
+174,Aby przenieść witrynę na serwer można skorzystać z oprogramowania,C,FileZilla,0
+175,Kolor zapisany kodem RGB o wartości rgb(255 128 16) w kodzie szesnastkowym będzie miał wartość:,C,#ff8010,0
+176,Plik graficzny należy zapisać w formacie GIF jeżeli,D,jest potrzeba zapisu obrazu lub animacji,0
+177,Aby dopasować dźwięk do danego poziomu głośności należy użyć efektu,B,normalizacji,0
+178,Instrukcja DROP języka SQL ma za zadanie,A,usunąć istniejący obiekt,0
+179,Baza danych zawiera tabelę uczniowie z polami: imie nazwisko klasa. Aby odnaleźć imiona i nazwiska tych uczniów których nazwiska rozpoczynają się literą M należy zastosować polecenie SQL,B,SELECT nazwisko imie FROM uczniowie WHERE nazwisko LIKE "M%";,0
+180,Baza danych zawiera tabele z polami: . Aby wyświetlić wszystkie nazwy artykułów wyłącznie typu pralka dla których cena jest z przedziału 1000 PLN i 1500 PLN należy zastosować polecenie,D,SELECT nazwa FROM artykuly WHERE typ="pralka" AND cena BETWEEN 1000 AND 1500;,0
+181,Wartość pola tabeli pełniącego rolę klucza podstawowego,A,musi być unikalna,0
+182,Aby utworzyć relację jeden do wielu w tabeli po stronie  należy zdefiniować,C,klucz obcy wskazujący na klucz podstawowy tabeli po stronie,0
+183,Narzędziem służącym do grupowania i prezentowania informacji z wielu rekordów w celu ich drukowania lub rozpowszechniania jest,A,raport,0
+184,Aby uprościć wprowadzenie i edytowanie danych w tabeli należy zdefiniować,B,formularz,0
+185,Baza danych 6-letniej szkoły podstawowej zawiera tabelę z polami: . Wszyscy uczniowie klas 1-5 zdali do następnej klasy. Aby zwiększyć wartość w polu klasa o 1 należy użyć polecenia,C,UPDATE szkola SET klasa=klasa+1 WHERE klasa>=1 AND klasa <=5;,0
+186,Uprawnienia obiektowe nadawane użytkownikom serwera bazy danych mogą pozwalać lub zabraniać,D,wykonywać operacje na bazie takie jak wstawanie lub modyfikowanie danych,0
+187,Przed wykonaniem kopii bezpieczeństwa bazy danych tak aby kopia ta była poprawna i możliwa do późniejszego odtworzenia należy sprawdzić,D,spójność bazy danych,0
+188,W MS SQL Server polecenie RESTORE DATABASE służy do,A,odtworzenia bazy danych z kopii bezpieczeństwa,0
+189,W języku PHP zmienna typu float przyjmuje wartości,D,zmiennoprzecinkowe,0
+190,Dany jest fragment kodu PHP z zdeklarowaną zmienną typu tablicowego. W wyniku wykonania kodu zostanie wpisane imię,C,Krzysztof,1
+191,Przedstawiony kod języka PHP,B,definiuje tablicę z trzema wartościami,1
+192,W języku JavaScript poprawnie nadana zmienna to,B,imie2,0
+193,Zakładając że zmienne: a b c przechowują wartości numeryczne wynikiem działania warunku będzie wypisanie liczby,B,największej,1
+194,Fragment kodu języku PHP ma następującą postać. Wynikiem działania pętli będzie wypisanie liczb:,C,048121620,1
+195,Zadaniem funkcji zapisanej w języku PHP jest,C,Zwrócenie wartości 1 gdy liczba jest parzysta,1
+196,Wykonanie kodu JavaScript w przeglądarce wymaga,C,interpretowania,0
+197,Kod strony WWW napisanej w języku PHP,B,jest wykonywany po stronie serwera,0
+198,Zakładając że zmienna tablicowa $tab jest wypełniona liczbami naturalnymi wynikiem programu będzie wypisanie,A,największego elementu tablicy,1
+199,Fragment kodu w języku JavaScript realizujący dodawanie dwóch liczb ma następującą postać. Aby dodawanie wykonane było po kliknięciu przycisku o nazwie  należy w wykropkowane miejsce wstawić,D,<button onclick="return dodaj()">dodaj</button>,1
+200,Komentarz w języku JavaScript rozpoczyna się od znaku lub znaków,C,//,0
+201,Polecenie pg_connect języka PHP służy do połączenia z bazą,C,PostgreSQL,0
+202,Aby zamieścić aplikację PHP w internecie należy jej pliki źródłowe skopiować na serwer za pomocą protokołu,A,FTP,0
+203,Personalizowanie wyglądu strony dla danego użytkownika i jego identyfikacja w serwisie są możliwe dzięki mechanizmowi,D,cookie,0
+204,Automatyczna weryfikacja właściciela strony udostępnianej przez protokół HTTPS jest możliwa dzięki,C,certyfikatowi SSL,0
+205,Do grupowania obszarów na poziomie bloków które będą formatowane za pośrednictwem znaczników należy użyć,B,<div>,0
+206,Znacznik <i> języka HTML służy do,C,zmiany kroju pisma na pochylony,0
+207,Poniżej przedstawiono fragment kodu języka HTML. Jest on definicją listy:,C,C,1
+208,Kod języka CSS można umieścić wewnątrz kodu HTML posługując się znacznikiem,B,<style>,0
+209,Chcąc zdefiniować formatowanie tabeli w języku CSS w taki sposób aby wiersz który jest aktualnie wskazywany kursorem myszy został wyróżniony np. innym kolorem należy zastosować,B,pseudoklasę :hover,0
+210,Aby uzyskać efekt rozstrzelenia liter w selektorze CSS należy użyć właściwości,C,letter-spacing,0
+211,Blok deklaracji postaci background-attachment: scroll powoduje że,B,tło strony będzie przewijane razem z tekstem,0
+212,Ikona która wyświetlona jest przed adresem w polu adresowym przeglądarki internetowej lub przy tytule otwartej karty przeglądarki nosi nazwę,B,favicon,0
+213,Aby poprawnie zdefiniować hierarchiczną strukturę tekstu witryny internetowej należy zastosować,D,znaczniki <h1> <h2> oraz <p>,0
+214,Która z reguł walidacji strony internetowej jest błędna?,A,Jeżeli w instrukcji używa się kilku atrybutów ich kolejność powinna być zgodna z alfabetem np. <img alt="...." src="...." />,0
+215,Oznaczenie barwy w postaci #ff00e0 jest równoważne zapisowi,D,rgb(2550224),0
+216,Formatem zapisu rastrowych plików graficznych z kompresją bezstratną jest,B,PNG,0
+217,Podczas obróbki grafiki rastrowej w programie z obsługą kanałów dodanie kanału alfa oznacza,A,dodanie warstwy z przezroczystością,0
+218,Aby pozbyć się nienaturalnego odwzorowania ukośnych krawędzi linii w grafice rastrowej czyli tak zwanego schodkowania należy zastosować filtr,D,antyaliasingu,0
+219,Formatem bezstratnej kompresji dźwięku jest,D,FLAC,0
+220,W języku SQL polecenie INSERT INTO,C,wprowadza dane do tabeli,0
+221,W języku SQL klauzula DISTINCT instrukcji SELECT sprawi że zwrócone dane,B,nie będą zawierały powtórzeń,0
+222,Zdefiniowano bazę danych z tabelą sklepy o polach: nazwa ulica miasto branza. Aby wyszukać wszystkie nazwy sklepów spożywczych zlokalizowanych wyłącznie we Wrocławiu należy posłużyć się kwerendą:,D,SELECT nazwa FROM sklepy WHERE branza="spozywczy" AND miasto="Wrocław";,0
+223,Zdefiniowano bazę danych z tabelą podzespoły o polach: model producent typ cena. Aby wyświetlić wszystkie modele pamięci RAM firmy Kingston w kolejności od najtańszej do najdroższej należy posłużyć się kwerendą:,A,SELECT model FROM podzespoly WHERE typ="RAM" AND producent="Kingston" ORDER BY cena ASC;,0
+224,W celu przyspieszenia operacji na bazie danych należy do pól często wyszukiwanych lub sortowanych,A,utworzyć indeks,0
+225,Jednoznacznym identyfikatorem rekordu w bazie danych jest pole,A,klucza podstawowego,0
+226,Zdefiniowano bazę danych z tabelą mieszkancy o polach: nazwisko imie miasto. Następnie stworzono następujące zapytanie do bazy: SELECT nazwisko imie FROM mieszkancy WHERE miasto="Poznań" UNION ALL SELECT nazwisko imie FROM mieszkancy WHERE miasto="Kraków"; Wskaż zapytanie które zwróci identyczne dane:,C,SELECT nazwisko imie FROM mieszkancy WHERE miasto="Poznań" OR miasto="Kraków";,0
+227,W bazie danych sklepu istnieje tabela artykuly zawierająca pole o nazwie nowy. Aby to pole wypełnić wartościami TRUE dla każdego rekordu należy zastosować kwerendę,A,UPDATE artykuly SET nowy=TRUE;,0
+228,W MS SQL Server predefiniowana rola o nazwie dbcreator pozwala użytkownikowi na,C,tworzenie modyfikowanie usuwanie i odzyskiwanie bazy danych,0
+229,Aby odebrać prawa dostępu do serwera MySQL należy posłużyć się instrukcją,D,REVOKE,0
+230,Za pomocą polecenia BACKUP LOG w MS SQL Server można,C,wykonać kopię bezpieczeństwa dziennika transakcyjnego,0
+231,Polecenie DBCC CHECKDB("sklepAGD" Repair_fast) w MS SQL Server,B,sprawdzi spójność bazy danych i naprawi uszkodzone indeksy,0
+232,Aby naprawić bazę danych w MySQL należy użyć polecenia,B,REPAIR,0
+233,Aby zdefiniować łamanie linii tekstu np. w zmiennej napisowej należy posłużyć się znakiem,C,n,0
+234,Dana jest tablica n-elementowa o nazwie t[n]. Zadaniem algorytmu zapisanego w postaci listy kroków jest wypisania sumy,B,co drugiego elementu tablicy,1
+235,Interpreter PHP wygeneruje błąd i nie wykona kodu jeżeli programista:,B,nie postawi średnika po wyrażeniu w instrukcji if jeśli po nim nastąpiła sekcja else,0
+236,Dana jest tablica o nazwie tab wypełniona liczbami całkowitymi różnymi od zera. Przedstawiony kod zapisany w języku PHP ma za zadanie:,C,zamienić wszystkie elementy tablicy na liczby z przeciwnym znakiem,1
+237,Warunek zapisany w JavaScript jest prawdziwy gdy zmienna x przechowuje,D,dowolną dodatnią wartość liczbową,1
+238,Przedstawiona funkcja zapisana kodem JavaScript ma za zadanie:,A,zwrócić wynik potęgowania a^n,1
+239,Program debugger służy do:,B,analizy wykonywanego programu w celu lokalizacji błędów,0
+240,Funkcja phpinfo() pozwala na:,D,uzyskanie informacji o środowisku pracy serwera obsługującego PHP,0
+241,Którego języka należy użyć aby zapisać skrypt wykonywany po stronie klienta w przegladarce internetowej?,D,JavaScript,0
+242,W języku PHP pobrano z bazy danych wyniki działania kwerendy za pomocą polecenia mysql_query(). Aby otrzymać ze zwróconej kwerendy wierszy danych należy zastosować polecenie:,C,mysql_fetch_row(),0
+243,Błędy interpretacji kodu PHP są zapisane:,A,w logu pod warunkiem ustawienia odpowiedniego parametru w pliku php.ini,0
+244,Do uruchomienia systemu CMS Joomla! wymagane jest środowisko:,C,Apache PHP i MySQL,0
+245,W języku HTML aby uzyskać następujący efekt pogrubienia pochylenia lub zapisania w górnym indeksie należy zapisać kod:,C,<b>pogrubiony </b><i>pochylony</i> lub w <sup>górnym indeksie</sup>,0
+246,W kodzie HTML zapisano w bloku tekst formatowany pewnym stylem. Aby wtrącić wewnątrz tekstu kilka słów formatowanych innym stylem należy zastosować znacznik,B,<span>,0
+247,Który z zapisów znacznika <meta> jest prawidłowy ze względu na wykorzystane atrybuty?,D,<meta name = "description" content = "Masz jakieś hobby? To jest strona dla Ciebie!">,0
+248,Który z wymienionych znaczników należy do części <head> dokumentu HTML?,B,<title>,0
+249,W języku CSS poniższy zapis sprawi że koloru zielonego będzie,C,tło tekstu nagłówka drugiego stopnia,1
+250,W języku CSS aby formatować tekst poprzez przekreślenie podkreślenie dolne lub górne należy zastosować,D,text-decoration,0
+251,W języku CSS poniższy zapis sprawi że kolor żółty przyjmie czcionka,C,odnośników które otwierają sie w osobnej karcie,1
+252,W języku CSS poniższy zapis użyty na stronie na której jest kilka paragrafów a każdy z nich ma po kilka linii sprawi że,B,pierwsza linia każdego paragrafu będzie miała większą czcionkę niż następne linie,1
+253,Który znacznik lub grupa znaczników nie są stosowane do definiowania struktury strony HTML?,B,<i> <b> <u>,0
+254,Który z przedstawionych kodów HTML sformatuje tekst według wzoru? (uwaga: słowo "stacji" jest zapisane większą czcionką niż reszta słów w tej linii),B,B,1
+255,Kolor zapisany w postaci szesnastkowej o wartości #11FE07 w kodzie RGB ma postać,D,rgb(172547),0
+256,Które ze zdań jest prawdziwe w stosunku do grafiki rastrowej?,D,Jest to prezentacja obrazu za pomocą pionowo-poziomej siatki odpowiednio kolorowanych pikseli na monitorze komputera drukarce lub innym urządzeniu wyjściowym,0
+257,Który z formatów grafiki jest najbardziej odpowiedni do zapisu obrazu z przezroczystością na potrzeby strony internetowej?,B,PNG,0
+258,W czasie przetwarzania dźwięku aby pozbyć się niechcianych odgłosów spowodowanych złą jakością mikrofonu należy zastosować narzędzie,D,usuwania szumów,0
+259,Aby obraz zmieniał się płynnie w filmie liczba klatek (nieprzenikających się wzajemnie) na sekundę musi znajdować się przynajmniej w zakresie,C,24-30 fps,0
+260,W poleceniu CREATE TABLE języku SQL atrybut określający która kolumna tabeli jest kluczem podstawowym to,C,PRIMARY KEY,0
+261,Dana jest tabela psy o polach: imie rasa telefon_wlasciciela rok_szczepienia. Aby wyszukać telefony właścicieli których psy były szczepione przed 2015 rokiem należy użyć polecenia SQL,C,SELECT telefon_wlasciciela FROM psy WHERE rok_szczepienia < 2015,0
+262,Na rysunku została przedstawiona relacja jeden do wielu. Łączy ona,C,klucz obcy rezyserzy_id tabeli filmy z kluczem podstawowym id tabeli rezyserzy,1
+263,W bazie danych sklepu spożywczego pod koniec dnia jest tworzony raport wyświetlający te produkty wraz z ich dostawcami dla których stan magazynowy jest mniejszy niż 10 sztuk. Do zdefiniowania tego raportu posłużono się kwerendą,A,SELECT,0
+264,Wskaż polecenie SQL dodające pole miesiacSiewu do istniejącej tabeli rosliny,C,ALTER TABLE rosliny ADD miesiacSiewu int,0
+265,Polecenie serwera MySQL przedstawione poniżej sprawi że użytkownikowi tkowal zostaną,B,odebrane prawa usuwania i modyfikowania danych w tabeli pracownicy,1
+266,W serwerze MySQL nadanie roli o nazwie DBManager przyznaje użytkownikowi prawa umożliwiające,B,wszelkie operacje na bazach danych serwera,0
+267,W bazie danych wykonano następujące polecenie dotyczące praw użytkownika adam. Po wykonaniu poleceń użytkownik adam będzie miał prawa do,A,usunięcia tabeli lub jej rekordów,1
+268,Wskaż poprawną zasadę dotyczącą spójności danych w bazie danych,B,pole klucza podstawowego nie może być puste,0
+269,Aby naprawić uszkodzoną tabelę w MySQL należy wydać polecenie,C,REPAIR TABLE,0
+270,W formularzu dane z pola input o typie number zostały zapisane do zmiennej a a następnie przetworzone w skrypcie JavaScript w następujący sposób. Zmienna z będzie typu,C,zmiennoprzecinkowego,1
+271,Aby w pliku z rozszerzeniem php umieścić kod w języku PHP należy użyć znaczników,B,<?php .......... ?>,0
+272,Ile iteracji będzie miała pętla zapisana w języku PHP zakładając że zmienna sterująca nie jest modyfikowana we wnętrzu pętli?,C,6,1
+273,W JavaScript wynik operacji jest równy wartości NaN jeśli skrypt próbował wykonać,B,działanie arytmetyczne a zawartość zmiennej była napisem,0
+274,W instrukcji warunkowej języka JavaScript należy sprawdzić przypadek gdy wartość zmiennej a jest z przedziału (0 100) natomiast wartość zmiennej b jest większa od zera. Warunek taki jest prawidłowo zapisany w nastepujący sposób,B,if (a>0 && a<100 && b>0),0
+275,Dla dowolnego a z przedziału (099) zadaniem funkcji zapisanej w języku Java Script jest:,D,wypisanie liczb z przedziału a...100 i zwrócenie wartości zmiennej n,1
+276,Zapis w języku JavaScript ma za zadanie,C,utworzenie obiektu napis1 klasy napisy,1
+277,Aby wykonać kod zapisany językiem PHP wystarczy że w systemie zainstalowano,B,serwer WWW z interpreterem PHP,0
+278,Pętla zapisana w języku PHP wstawi do tablicy liczby,C,0 10 20 30 40 50 60 70 80 90,1
+279,Wymaganiem aplikacji internetowej jest aby ta była wykonywana po stronie klienta. W którym języku należy zaimplementować tę aplikację?,D,JavaScript,0
+280,Zadaniem funkcji PHP o nazwie mysql_num_rows() jest,C,zwrócić liczbę wierszy znajdujących się w wyniku zapytania,0
+281,Jaka treść komunikatu powinna być wstawiona w przedstawionym kodzie PHP zamiast znaków zapytania?,B,Błąd połączenia z serwerem SQL,1
+282,Testy aplikacji internetowej mające za zadanie sprawdzenie skalowalności aplikacji i bazy danych oraz architektury serwera i konfiguracji noszą nazwę testów,A,kompatybilności,0
+283,Aby prawidłowo udokumentować linię kodu języka Java Script należy po znakach // wpisać komentarz,D,w zmiennej x maksymalna wartość ze zmiennych a b c,1
+284,Aby stronę WWW można było przesłać do przeglądarki internetowej w postaci zaszyfrowanej należy użyć protokołu,A,HTTPS,0
+285,W języku HTML aby uzyskać efekt jak na przykładzie należy zastosować konstrukcję,C,<p><big>Duży tekst</big> zwykły tekst</p>,1
+286,Zapis znacznika HTML w postaci,D,jest poprawny po wybraniu odnośnika aktualna strona zostanie przewinięta do elementu o nazwie "hobby",1
+287,W części nagłówkowej kodu HTML zapisano tekst przedstawiony na obrazku. Zapisany tekst zostanie wyświetlony,A,na pasku tytułu przeglądarki,1
+288,Przeglądarka internetowa wyświetliła stronę w następujący sposób. Wskaż kod HTML który poprawnie definiuje przedstawioną hierarchiczną strukturę tekstu:,D,<h1>Rozdział 1</h1> <p>tekst</p> <h2>Podrozdział 1.1</h2> <p>tekst</p> <h2>Podrozdział 1.2</h2>,1
+289,W języku CSS przedstawiony zapis sprawi że plik rysunek.png będzie,B,tłem każdego paragrafu,1
+290,W języku CSS aby zdefiniować niestandardowe odstępy między wyrazami stosuje się właściwość,C,word-spacing,0
+291,W języku CSS zdefiniowano następujące formatowanie. Oznacza to że kolorem niebieskim zostanie zapisany,B,pochylony tekst paragrafu,1
+292,W języku CSS zapis w następującej postaci sprawi iż koloru czerwonego będzie,D,pierwsza litera nagłówka pierwszego stopnia,1
+293,W języku HTML informacje dotyczące autora streszczenia i słów kluczowych strony należy umieścić,A,pomiędzy znacznikami <head> i </head> w znaczniku <meta>,0
+294,Który z przedstawionych kodów XHTML sformatuje tekst według podanego wzoru?,D,D,1
+295,Kolor zapisany kodem RGB o wartości rgb(128 16 8) w postaci szesnastkowej ma wartość,C,#801008,0
+296,Które ze zdań opisuje grafikę wektorową?,D,Zapisywany obraz jest opisywany za pośrednictwem figur geometrycznych umieszczonych w układzie współrzędnych,0
+297,Aby zbadać rozkład ilościowy poszczególnych kolorów zdjęcia należy użyć,B,histogramu,0
+298,W standardzie HDTV jest stosowana rozdzielczość,D,1920 x 1080 px,0
+299,Którą klauzulę powinno się zastosować w poleceniu CREATE TABLE języka SQL aby dane pole rekordu nie było puste?,D,NOT NULL,0
+300,Polecenie języka SQL w postaci,B,dodaje do tabeli kolumnę o nazwie kod typu text,1
+301,W bazie danych hurtowni zdefiniowano tabelę sprzedaz o polach: id kontrahent grupa_cenowa obrot. Aby wyszukać wyłącznie kontrahentów z drugiej grupy cenowej których obrót jest większy niż 4000zł należy zastosować polecenie,C,SELECT kontrahent FROM sprzedaz WHERE grupa_cenowa = 2 AND obrot > 4000;,0
+302,Dana jest tabela programiści o polach: id nick ilosc_kodu ocena. Pole ilosc_kodu zawiera liczbę linii kodu napisanych przez programistę w danym miesiącu. Aby policzyć sumę linii kodu który napisali wszyscy programiści należy użyć polecenia,B,SELECT SUM(ilosc_kodu) FROM programisci;,0
+303,W instrukcji CREATE TABLE użycie klauzuli PRIMARY KEY przy deklaracji pola tabeli spowoduje że pole to stanie się,D,kluczem podstawowym,0
+304,Baza danych księgarni zawiera tabelę ksiazki z polami: id idAutor tytul ileSprzedanych oraz tabelę autorzy z polami: id imie nazwisko. Aby stworzyć raport sprzedanych książek z tytułami i nazwiskami autorów należy,B,Zdefiniować relację 1..n dla tabel ksiazki i autorzy a następnie stworzyć kwerendę łączącą obie tabele,0
+305,Istnieje tabela pracownicy z polami: id imie nazwisko pensja. W nowym roku postawiono podnieść pensję wszystkim pracownikom o 100 zł. Aktualizacja ta w bazie danych będzie miała postać,A,UPDATE pracownicy SET pensja = pensja + 100;,0
+306,W tabeli artykuly wykonano następujące polecenia dotyczące praw użytkowania jan. Po wykonaniu poleceń użytkownik jan będzie miał prawa do,C,tworzenia tabeli i wypełniania jej danymi,1
+307,Aby przywrócić bazę danych MS SQL z kopii bezpieczeństwa należy zastosować polecenie,C,RESTORE DATABASE,0
+308,Baza danych MySQL uległa uszkodzeniu. Które z działań NIE pomoże przy jej naprawie?,A,Wykonanie replikacji bazy danych,0
+309,W formularzu dane z pola input o typie number zostały zapisane do zmiennej a a następnie przetworzone w skrypcie JavaScript w następujący sposób. Zmienna x będzie typu,D,liczbowego całkowitego,1
+310,Wstawki kodu JavaScript w dokumencie HTML mogą się znaleźć,D,zarówno w cześci <head> jak i <body> w znaczniku <script>,0
+311,W przedstawonym kodzie JavaScript dla ułatwienia ponumerowano linie. W kodzie znajduje się błąd gdyż po uruchomieniu żaden komunikat nie zostaje wyświetlony. Aby wyeliminować błąd należy,B,wstawić nawiasy klamrowe do sekcji if oraz else,1
+312,Ile iteracji będzie miała przedstawiona pętla zapisana w języku PHP zakładając że zmienna sterująca nie jest modyfikowana we wnętrzu pętli?,C,11,1
+313,W języku JavaScript metoda document.getElementById(id) ma za zadanie,D,zwrócić odniesienie do pierwszego elementu HTML o podanym id,0
+314,W instrukcji warunkowej JavaScript należy sprawdzić przypadek gdy zmienne a oraz b są dodatnie z czego zmienna b jest mniejsza od 100. Warunek taki powinien być zapisany w następujący sposób:,D,if ( a > 0 && b > 0 && b < 100),0
+315,Zadaniem przedstawionej funkcji zapisanej w języku JavaScript jest,B,wypisanie liczb parzystych z przedziału od a do b,1
+316,Przedstawiony kod został zapisany w języku JavaScript. W podanej definicji obiektu metodą jest element o nazwie,B,oblicz,1
+317,Aby uzyskać informacje o środowisku pracy serwera obsługującego PHP należy skorzystać z funkcji,B,phpinfo(),0
+318,Fragment kodu w języku PHP wypisze,D,samą nazwę konta czyli "adres",1
+319,Do uruchomienia skryptu JavaScript wymagane jest oprogramowanie,D,przeglądarki internetowej,0
+320,Zadaniem funkcji PHP o nazwie mysql_select_db() jest,B,określić bazę z której będą pobierane dane,0
+321,W przedstawionym kodzie PHP zamiast znaków zapytania powinien pojawić się komunikat:,A,Błąd przetwarzania zapytania,1
+322,Testy wydajnościowe mają na celu sprawdzenie,C,stopnia spełnienia wymagań wydajnościowych przez system lub moduł,0
+323,Aby prawidłowo udokumentować przedstawioną linię kodu języka JavaScript należy po znakach // wpisać komentarz,D,wyświetlenie daty i czasu w znaczniku o id = napis,1
+324,Przekierowanie 301 służące przekierowaniu użytkownika z jednego adresu URL na inny można ustawić w pliku konfiguracji serwera Apache o nazwie,B,.htaccess,0
+325,W języku HTML aby zdefiniować słowa kluczowe strony należy użyć zapisu,C,<meta name="keywords" content="psy koty gryzonie">,0
+326,W języku HTML zdefiniowano znacznik a. Wartość nofollow atrybutu rel,C,jest informacją dla robota wyszukiwarki Google aby nie podążał za tym linkiem,1
+327,W języku HTML aby zdefiniować poziomą linię należy użyć znacznika,D,<hr>,0
+328,Zapisano kod HTML wstawiający grafikę na stronę internetową. Jeżeli rysunek.png nie zostanie odnaleziony przeglądarka,B,w miejscu grafiki wypisze tekst "pejzaż",1
+329,Aby w języku HTML uzyskać takie formatowanie paragrafu dla tekstu należy zastosować kod,C,<p>Tekst może być <mark>zaznaczony</mark> albo <em>istotny</em> dla autora</p>,1
+330,Zamieszczony kod HTML formularza zostanie wyświetlony przez przeglądarkę w sposób:,D,D,1
+331,W języku CSS wcięcie pierwszej linii akapitu na 30 pikseli uzyska się za pomocą zapisu,A,p { text-indent: 30px; },0
+332,W języku CSS zdefiniowano następujące formatowanie. Kolorem czerwonym zostanie zapisany,A,tylko tekst pochylony nagłówka pierwszego stopnia,1
+333,W języku CSS aby sformatować dowolny element języka HTML w ten sposób że po najechaniu na niego kursorem zmienia on kolor czcionki należy zastosować pseudoklasę,B,:hover,0
+334,Zapis CSS w takiej postaci sprawi że na stronie internetowej,A,punktorem listy nienumerowanej będzie rys.gif,1
+335,W języku CSS aby zdefiniować odmienne formatowanie dla pierwszej litery akapitu należy zastosować selektor,D,pseudoelementu p::first-letter,0
+336,W kodzie źródłowym zapisanym w języku HTML wskaż błąd walidacji dotyczący tego fragmentu,D,Znacznik zamykający /b niezgodny z zasadą zagnieżdżania,1
+337,W ramce przedstawiono właściwości pliku graficznego. W celu optymalizacji czasu ładowania rysunku na stronę WWW należy,A,zmniejszyć wymiary rysunku,1
+338,W programie INKSCAPE / COREL aby uzyskać przedstawiony efekt napisu należy,D,skorzystać z funkcji wstaw / dopasuj tekst do ścieżki,1
+339,Programem do edycji dźwięku jest,C,Audacity,0
+340,Dana jest tabela pracownicy. Polecenie MySQL usuwające wszystkie rekordy z tabeli dla których nie wypełniono pola rodzaj_umowy ma postać,D,DELETE FROM pracownicy WHERE rodzaj_umowy IS NULL;,0
+341,W języku SQL aby stworzyć tabelę należy zastosować polecenie,D,CREATE TABLE,0
+342,W przedstawionym fragmencie kwerendy języka SQL komenda SELECT ma za zadanie zwrócić,B,liczbę wierszy,1
+343,Dana jest tabela ksiazki z polami: tytul autor (typu tekstowego) cena (typu liczbowego). Aby kwerenda SELECT zwróciła tylko tytuły dla których cena jest mniejsza od 50zł należy zapisać:,B,SELECT tytul FROM ksiazki WHERE cena < 50;,0
+344,W bazie danych MYSQL dana jest tabela programów komputerowych o polach: nazwa producent rokWydania. Aby kwerenda SELECT zwróciła wszystkie nazwy producentów tak by nazwy te nie powtarzały się należy zapisać:,B,SELECT DISTINCT producent FROM programy;,0
+345,Tabela filmy zawiera klucz główny id oraz klucz obcy rezyserID. Tabela rezyserzy zawiera klucz główny id. Obydwie tabele połączone są relacją jeden po stronie rezyserzy do wielu po stronie filmy. Aby w kwerendzie SELECT połączyć tabele filmy i rezyserzy należy zapisać,C,... filmy JOIN rezyserzy ON filmy.rezyserID = rezyserzy.id ...,0
+346,Na rysunku przedstawiono dwie tabele. Aby połączyć je relacją jeden do wielu jeden po stronie Klienci wiele po stronie Zamowienia należy,B,Dodać pole klucza obcego do tabeli Zamowienia i połączyć je z ID tabeli Klienci,1
+347,Źródłem rekordów dla raportu może być,A,Tabela,0
+348,Przedstawione polecenie MySQL ma za zadanie,D,Zmienić typ kolumny w tabeli ksiazki,1
+349,W tabeli podzespoly należy zmienić wartość pola URL na 'toshiba.pl' dla wszystkich rekordów gdzie pole producent to TOSHIBA. W języku SQL modyfikacja będzie miała postać,D,UPDATE podzespoly SET URL='toshiba.pl' WHERE producent='TOSHIBA';,0
+350,Do zabezpieczeń serwera bazy danych przed atakami hakerów nie należy,B,Defragmentacja dysków,0
+351,W języku MySQL należy zastosować polecenie REVOKE aby użytkownikowi anna odebrać prawo do dokonywania zmian jedynie w definicji struktury bazy danych. Polecenie odpowiadające odebraniu tych praw ma postać,B,REVOKE CREATE ALTER DROP ON tabela1 FROM 'anna'@'localhost',0
+352,W języku JavaScript aby sprawdzić warunek czy liczba znajduje się w przedziale (100;200> należy zapisać:,C,if (liczba > 100 && liczba <= 200),0
+353,W wyniku działania pętli zapisanej w języku PHP zostanie wypisany ciąg liczb,A,10 15 20 25 30 35 40 45,1
+354,Które z poniższych zdań dotyczących zasad programowania w języku PHP jest prawdziwe?,A,Jest to język o słabej kontroli typów,0
+355,W języku PHP instrukcja foreach jest instrukcją,C,Pętli wyłącznie dla elementów tablicy,0
+356,Funkcją języka PHP tworzącą ciasteczko jest,D,setcookie(),0
+357,W języku PHP funkcja trim ma za zadanie,D,Usuwać białe znaki lub inne znaki podane w parametrze z obu końców napisu,0
+358,W języku JavaScript zapis w ramce oznacza że,C,zmienna x będzie przechowywać wynik działania metody nazwa,1
+359,W języku JavaScript zapisano następującą funkcję. Ma ona za zadanie,D,Zwrócić wartość bezwzględną z f,1
+360,Za pomocą języka PHP nie jest możliwe,D,Zmienianie dynamiczne zawartości strony HTML w przeglądarce,0
+361,Działaniem przedstawionego kodu PHP będzie wypełnienie tablicy,C,10 losowymi wartościami a następnie wypisanie wartości ujemnych,1
+362,W języku JavaScript zapisano fragment kodu. Po wykonaniu skryptu zmienna x,C,Będzie równa 11 i zostanie wypisana w konsoli przeglądarki internetowej,1
+363,W języku PHP wykonując operacje na bazie danych MySQL aby zakończyć pracę z bazą należy wywołać,B,mysqli_close();,0
+364,W ramce przedstawiono kod JavaScript z błędem logicznym. Program powinien wypisywać informację czy liczby są sobie równe czy nie lecz nie wykonuje tego. Wskaż odpowiedź która dotyczy błędu,C,W klauzuli if występuje przypisanie zamiast porównania,1
+365,Która z zasad tworzenia części <head> języka HTML jest poprawna?,B,W części <head> mogą wystąpić znaczniki <meta> <title> <link>,0
+366,W języku HTML znacznik <strong>tekst</strong> będzie wyświetlany w ten sam sposób przez przeglądarkę co znacznik,A,<b>tekst</b>,0
+367,Aby strona WWW była responsywna należy między innymi definiować,B,rozmiary obrazów w procentach,0
+368,W języku HTML aby zapisać sekcję cytatu która może zawierać kilka paragrafów tak by przeglądarka dodała wspólne wcięcie należy zastosować znacznik,D,<blockquote>,0
+369,W języku CSS wartości underline overline blink przyjmują atrybut,D,text-decoration,0
+370,W przedstawionej definicji stylu CSS powtarzanie dotyczy,C,rysunku umieszczonego w tle strony w pionie,1
+371,W języku CSS zdefiniowano styl. Sformatowana stylem sekcja będzie zawierała obramowanie o szerokości,C,2 px oraz marginesy na zewnątrz tego obramowania,1
+372,Strona HTML definiuje akapit oraz rysunek. Aby rysunek został umieszczony przez przeglądarkę w tej samej linii co akapit po jego lewej stronie należy w stylu CSS rysunku zawrzeć własność,A,float:left;,0
+373,W języku CSS określono formatowanie znacznika h1 według wzoru. Zakładając że żadne inne formatowanie nie jest dodane do znacznika h1 wskaż sposób formatowania tego znacznika,C,C,1
+374,Aby przygotować szablon strony z trzema kolumnami ustawionymi obok siebie można posłużyć się stylem CSS,A,A,1
+375,Przedstawiono fragment kodu HTML który się poprawnie. Błąd walidacji tego fragmentu kodu będzie dotyczył,A,Braku cudzysłowu,1
+376,Modelem barw opisującym kolor z użyciem stożka przestrzeni barw jest,B,HSV,0
+377,Rozmycie Gaussa wygładzanie szum RGB są funkcjami programu do obróbki,A,Grafiki rastrowej,0
+378,Aby edytować nakładające się na siebie pojedyncze fragmenty obrazu pozostawiając pozostałe elementy niezmienione należy zastosować,A,Warstwy,0
+379,W języku SQL wykorzystywanym przez bazę danych MySQL atrybut UNIQUE polecenia CREATE TABLE,D,Jest stosowany jeśli wartość w kolumnie nie mogą się powtarzać,0
+380,Funkcja agregująca MIN języka SQL ma za zadanie policzyć,B,Wartość minimalną kolumny zwróconej kwerendą,0
+381,Dana jest tabela o nazwie wycieczki z polami: nazwa cena miejsca (jako liczba wolnych miejsc). Aby dla dowolnego zbioru danych tabeli wyświetlić jedynie nazwy tych wycieczek dla których cena jest niższa niż 2000 zł i mają przynajmniej cztery wolne miejsca należy posłużyć się zapytaniem,A,SELECT nazwa FROM wycieczki WHERE cena < 2000 AND miejsca > 3;,0
+382,Dana jest tabela o nazwie przedmioty z polami: ocena i uczenID. Aby policzyć średnią ocen ucznia o ID równym 7 należy posłużyć się zapytaniem,B,SELECT AVG(ocena) FROM przedmioty WHERE uczenID = 7;,0
+383,Tabela o nazwie naprawy zawiera pola: klient czyNaprawione. Aby usunąć te rekordy w których pole czyNaprawione jest prawdą należy posłużyć się poleceniem,C,DELETE FROM naprawy WHERE czyNaprawione = TRUE;,0
+384,Formularz nadrzędny wykorzystywany do nawigacji w bazie danych pomiędzy dostępnymi w systemie formularzami kwerendami jest nazywany formularzem,B,sterującym,0
+385,W bazie danych sklepu komputerowego istnieje tabela komputery. Aby zdefiniować raport wyświetlający dla dowolnego zbioru danych tabeli jedynie pola tabeli dla komputerów w których jest nie mniej niż 8 GB pamięci a procesor to Intel można posłużyć sie kwerendą,D,SELECT * FROM komputery WHERE procesor = "Intel" AND pamiec >= 8;,0
+386,Za pomocą polecenia ALTER TABLE można,B,zmienić strukturę tabeli,0
+387,W języku SQL wykorzystywanym przez bazę danych MySQL w tabeli samochody aby nadać wartość równą 0 dla kolumny przebieg należy posłużyć się kwerendą,A,UPDATE samochody SET przebieg = 0;,0
+388,Przedstawione polecenie SQL użytkownikowi adam@localhost nadaje prawa,B,manipulowania danymi w tabeli klienci,1
+389,W języku JavaScript przedstawiona definicja jest definicją,B,tablicy,1
+390,Dla każdej iteracji pętli wartość bieżącego elementu tablicy jest przypisywana do zmiennej a wskaźnik tablicy jest przesuwany o jeden aż do ostatniego elementu tablicy. Zdanie to jest prawdziwe dla instrukcji,D,foreach,0
+391,Wskaż zapisany w języku JavaScript warunek który ma sprawdzić spełnienie z przypadków: 1) dowolna naturalna liczba a jest trzycyfrowa 2) dowolna całkowita liczba b jest ujemna,B,((a>99) && (a<1000)) || (b<0),0
+392,Którą czynność gwarantującą poprawne wykonanie przedstawionego kodu JavaScript należy wykonać przed pętlą?,B,Zainicjować zmienną text,1
+393,Hermetyzacja to zasada programowania obiektowego mówiąca o tym że,B,pola i metody wykorzystywane tylko przez daną klasę/obiekt są ograniczone zasięgiem private lub protected,0
+394,Przedstawiono fragment JavaScript. Po jego wykonaniu zmienna str2 będzie przechowywać,A,vaSc,1
+395,Który ze sposobów wypisania tekstu zdefiniowany w języku JavaScript?,C,Funkcja MessageBox(),0
+396,Funkcja JavaScript powinna być wywołana za każdym razem gdy użytkownik wpisze dowolny znak do pola edycji. Którego zdarzenia należy użyć?,C,onkeydown,0
+397,Która z wymienionych funkcji zapisanych językiem PHP zwraca sumę połowy a i połowy b,C,function licz($a $b) {return $a/2 + $b/2;},0
+398,W języku JavaScript zapisano definicję obiektu. Aby odwołać się do własności nazwisko należy zapisać,C,osoba.nazwisko,1
+399,W języku PHP zapisano fragment kodu. Plik cookie stworzony tym poleceniem,A,zostanie usunięty po jednym dniu od jego utworzenia,1
+400,W języku PHP zapisano fragment kodu. Po zakończeniu pętli zmienna a przyjmie wartość,D,20,1
+401,W języku JavaScript aby zmienić wartość atrybutu znacznika HTML po uzyskaniu obiektu za pomocą metody getElementById należy skorzystać z,C,metody setAttribute,0
+402,W języku JavaScript zapisano kod którego wynikiem działania jest,D,wyświetlenie okna z polem edycyjnym w którym jest wpisany domyślny tekst "Adam",1
+403,W języku PHP zapisano fragment kodu działającego na bazie MySQL. Jego zadaniem jest wypisanie,C,miasta i kodu pocztowego z pierwszego zwróconego rekordu,1
+404,Który sposób komentowania jednoliniowego jest dozwolony w języku JavaScript?,C,//,0
+405,Znaczniki <header> <article> <section> <footer> są charakterystyczne dla języka,A,HTML 5,0
+406,Przy użyciu którego znacznika w języku HTML nie można umieścić na stronie grafiki dynamicznej?,B,<strike>,0
+407,Które ze znaczników HTML umożliwią wyświetlenie na stronie tekstu w jednym wierszu jeżeli żadne formatowanie CSS nie zostało zdefiniowane?,D,<span>Dobre strony </span><span style="letter-spacing:3px">mojej strony</span>,1
+408,W języku HTML atrybut shape znacznika area określający typ obszaru może przyjąć wartość,D,rect poly circle,0
+409,Wskaż prawidłową kolejność stylów CSS mając na uwadze ich pierwszeństwo w formatowaniu elementów strony WWW.,A,Lokalny Wewnętrzny Zewnętrzny,0
+410,W folderze www znajdują się podfoldery html i style w których zapisane są odpowiednio pliki z rozszerzeniem html i pliki z rozszerzeniem css. Chcąc dołączyć styl.css do pliku HTML należy użyć,D,<link rel="Stylesheet" type="text/css" href="/../style/styl.css" />,0
+411,Chcąc zdefiniować marginesy wewnętrzne dla danych: margines górny 50px dolny 40px prawy 20px i lewy 30px należy użyć składni CSS,B,padding: 50px 20px 40px 30px;,0
+412,Chcąc sformatować w stylach CSS wszystkie obrazy zawarte w akapicie powinno się użyć selektora,A,p img,0
+413,Który z atrybutów background-attachment w języku CSS należy wybrać aby tło strony było nieruchome względem okna przeglądarki?,B,Fixed,0
+414,Barwa zapisana w modelu RGB(255 0 0) jest,D,czerwona,0
+415,Połączenie dwóch barw leżących po przeciwnych stronach w kole barw jest połączeniem,C,dopełniającym,0
+416,Model barw oparty na 3 parametrach: odcień nasycenie i jasność to,B,HSV,0
+417,Który z wymienionych formatów plików NIE JEST wykorzystywany do publikacji grafiki lub animacji na stronach internetowych?,D,AIFF,0
+418,Aby stworzyć przycisk na stronę internetową według wzoru należy w programie do grafiki rastrowej użyć opcji,D,zaokrąglenie lub wybranie opcji prostokąt z zaokrąglonymi rogami,1
+419,Pierwszym krokiem podczas przetwarzania sygnału analogowego na cyfrowy jest,A,próbkowanie,0
+420,Wskaż FAŁSZYWE stwierdzenie dotyczące normalizacji sygnału dźwiękowego,C,Jeśli najgłośniejszy fragment dźwięku osiąga połowę skali wszystko zostanie pogłośnione razy dwa - czyli tak aby najgłośniejszy fragment osiągnął maksimum na skali,0
+421,Wskaż PRAWDZIWE stwierdzenie dla polecenia: CREATE TABLE IF NOT EXISTS ADRES(ulica VARCHAR(70) CHARACTER SET utf8);,D,IF NOT EXISTS stosuje się opcjonalnie aby upewnić się że brak w bazie danych takiej tabeli,0
+422,Jak działa instrukcja łącząca wyniki zapytań INTERSECT w języku SQL?,D,Zwraca część wspólną wyników dwóch zapytań.,0
+423,W języku SQL dla dowolnych zestawów danych w tabeli Uczniowie aby wybrać rekordy które zawierają wyłącznie uczennice o imieniu "Aleksandra" urodzone po roku "1998" należy zapisać zapytanie,A,SELECT * FROM Uczniowie WHERE imie="Aleksandra" AND rok_urodzenia > "1998";,0
+424,Którą relację w projekcie bazy danych należy ustalić między tabelami widocznymi na rysunku zakładając że każdy klient sklepu internetowego dokona przynajmniej dwóch zamówień?,B,1:n gdzie 1 jest po stronie Klienta a wiele po stronie Zamówienia,1
+425,Wyszukując z tabeli Pracownicy wyłącznie nazwiska w których ostatnią literą jest "i" można użyć kwerendy SQL,C,SELECT nazwisko FROM Pracownicy WHERE nazwisko LIKE "%i";,0
+426,W celu dodania rekordu do tabeli Pracownicy należy użyć polecenia SQL,A,INSERT INTO Pracownicy VALUES ("Jan" "Kowalski");,0
+427,W języku SQL w wyniku wykonania zapytania ALTER TABLE osoba DROP COLUMN grupa; zostanie,B,usunięta kolumna grupa,0
+428,Właściwym zestawem kroków według kolejności które należy wykonać w celu nawiązania współpracy między aplikacją internetową po stronie serwera a bazą SQL jest,D,nawiązanie połączenia z serwerem baz danych wybór bazy zapytanie do bazy - wyświetlane na stronie WWW zamknięcie połączenia,0
+429,Do poprawnego i spójnego działania bazy danych niezbędne jest umieszczenie w każdej tabeli,D,klucza PRIMARY KEY z wartością NOT NULL i UNIQUE,0
+430,W języku PHP dla zmiennych a = 5 i b = 3 wartość typu zmiennoprzecinkowego zwróci wyrażenie,C,a / b,0
+431,Wartość i typ zmiennej w języku PHP można sprawdzić za pomocą funkcji,B,var_dump(),0
+432,W języku JavaScript zdefiniowana zmienna i która ma przechowywać wynik dzielenia wynoszący 1 to,C,var i=parseInt(3/2);,0
+433,Wskaż BŁĘDNY opis optymalizacji kodu wynikowego programu,C,Jej celem jest sprawdzenie zgodności z wymogami formalnymi,0
+434,Podaj wynik działania programu zapisanego w języku JavaScript znajdującego się w ramce po podaniu na wejściu wartości 5,B,120,1
+435,W języku PHP chcąc wyświetlić ciąg n znaków @ należy użyć funkcji,D,D,1
+436,Językami programowania działającymi po stronie serwera są:,B,Java C# Python Ruby PHP,0
+437,Instrukcja przypisania elementu do tablicy w języku JavaScript dotyczy tablicy,B,asocjacyjnej,1
+438,Jakie elementy wypisze funkcja wypisz(2) stworzona w języku JavaScript?,D,3 4 6,1
+439,W formularzu dokumentu PHP istnieje pole <input name="im" />. Po wprowadzeniu przez użytkownika ciągu znaków "Janek" w celu dodania zawartości pola do bazy danych w tablicy $_POST zawarty jest element,B,Janek o indeksie im,0
+440,W celu zmodyfikowania tekstu "ala ma psa" na "ALA MA PSA" należy użyć funkcji PHP,A,strtoupper("ala ma psa");,0
+441,W kodzie JavaScript pętla zostanie wykonana,B,3 razy,1
+442,Poprawne udokumentowanie wzorca weryfikacji pola nazwa w części kodu aplikacji JavaScript to,D,/* Pole nazwa może zawierać dowolny ciąg cyfr (z wyłączeniem 0) następnie musi zawierać dużą literę i ciąg minimum dwóch małych liter. */,1
+443,Włączenie do kodu skryptu zawartości pliku egzamin.php zawierającego kod PHP wymaga dodania instrukcji,D,include("egzamin.php");,0
+444,Automatyczna weryfikacja właściciela strony udostępnianej przez protokół HTTPS jest możliwa dzięki,B,certyfikatowi SSL,0
+445,Deklaracja typu dokumentu HTML: oznacza że kod jest napisany w wersji,B,5,0
+446,Dołączenie zewnętrznego arkusza stylów do kodu HTML jest realizowane przy użyciu znacznika,B,<link>,0
+447,Który z rysunków obrazuje efekt działania przedstawionego fragmentu kodu HTML?,C,C,1
+448,Przedstawione pole input umożliwi,B,zaznaczenie opcji,1
+449,W języku HTML zdefiniowano hiperłącze ze znakiem #. Co stanie się po wybraniu przedstawionego odsyłacza?,D,Strona przewinie się do elementu o wartości id równej dane,1
+450,Podana definicja stylu CSS sprawi że nagłówki pierwszego stopnia będą,D,wyśrodkowane pisane wielkimi literami a odstępy między literami będą ustawione na 10 px,1
+451,Jak zdefiniować w języku CSS formatowanie hiperłącza żeby nieodwiedzony link był w kolorze żółtym a odwiedzony w kolorze zielonym?,D,a:link {color: yellow;} a:visited{color: green;},0
+452,W języku CSS zdefiniowano formatowanie dla stopki. Aby użyć tego formatowania dla bloku opisanego znacznikiem div należy zapisać,B,<div id="stopka">,0
+453,Przedstawiono efekt formatowania CSS oraz kod HTML. Jak należy zdefiniować styl aby osiągnąć takie formatowanie?,C,p::first-line {font-size: 200%; color:brown;},1
+454,Przedstawione formatowanie CSS sprawi że dla prezentowanego nagłówka trzeciego stopnia,B,tło będzie pomarańczowe,1
+455,W języku XHTML zapisano fragment kodu który zawiera błąd walidacji. Na czym polega ten błąd?,A,Znacznik <br> powinien być zamknięty,1
+456,Kolor zapisany kodem heksadecymalnym: #1510FE w kodzie RGB będzie miał wartość,C,rgb(2116254),0
+457,Edytując grafikę w edytorze grafiki rastrowej należy pozbyć się kolorów z rysunku tak aby obraz był w odcieniach szarości. Można do tego efektu wykorzystać funkcję,A,desaturacji,0
+458,W edytorze grafiki wektorowej stworzono przedstawiony kształt który powstał z dwóch figur: trójkąta i koła. W celu stworzenia tego kształtu po narysowaniu figur i odpowiednim ich ustawieniu należy skorzystać z funkcji,A,sumy,1
+459,Aby zapisać prostą animację na potrzeby strony internetowej można skorzystać z formatu,A,GIF,0
+460,Tworząc tabelę w języku SQL zdefiniowano dla kolumny klucz główny. Aby zabezpieczyć ją przed wstawieniem wartości pustej należy zastosować atrybut,D,NOT NULL,0
+461,Dana jest tabela mieszkania zawierająca kolumny o nazwach: adres metraz ile_pokoi standard status cena. Wykonanie przedstawionej kwerendy SQL SELECT sprawi że zostaną wyświetlone,B,Metraż oraz cena tych mieszkań które mają więcej niż 3 pokoje,1
+462,Do tabeli pracownicy wpisano rekordy. Co zostanie wyświetlone po uruchomieniu kwerendy SQL SELECT podanej w ramce?,C,Wartość 10000 czyli suma pensji pracownika o id=4 oraz o id=6,1
+463,Na przedstawionej tabeli samochody wykonano zapytanie SQL: SELECT model FROM samochody WHERE rocznik=2016; W wyniku podanego zapytania zostaną zwrócone następujące wartości:,C,Punto Corsa Corolla,1
+464,Baza danych ma dwie tabele połączone relacją 1..n. Którą klauzulą SQL należy połączyć tabele aby wybrać korespondujące ze sobą wartości z pól obu tabel?,C,JOIN,0
+465,Zdefiniowanie klucza obcego jest niezbędne do utworzenia,B,relacji 1..n,0
+466,Zgodnie z właściwościami ACID dotyczącym wykonania transakcji wymaganie trwałości (ang. durability) oznacza że,D,dane zatwierdzone przez transakcję powinny być dostępne niezależnie od tego co się będzie działo po jej zakończeniu,0
+467,Baza danych zawiera tabelę faktury o polach: numer data id_klienta wartość status. Każdego dnia generowany jest raport faktur z bieżącego dnia. Wyświetlane są jedynie numery i wartości faktur. Która z kwerend SQL służy do stworzenia tego raportu?,D,SELECT numer wartosc FROM faktury WHERE data=CURRENT_DATE();,0
+468,Polecenie SQL które usuwa bazę danych o nazwie firma ma postać,C,DROP DATABASE firma;,0
+469,Zastosowanie kwerendy SQL: DELETE FROM mieszkania WHERE status=1; spowoduje usunięcie,C,rekordów w których pole status jest równe 1 z tabeli mieszkania,0
+470,Aby przywrócić bazę danych z kopii bezpieczeństwa na serwerze MSSQL należy posłużyć się poleceniem,C,RESTORE DATABASE,0
+471,W języku SQL wykonano przedstawione w ramce polecenia GRANT. Kto będzie miał prawo do przeglądania danych oraz ich zmiany?,B,Tylko Tomasz,1
+472,W języku PHP zastosowano funkcję is_int(). Które z podanych wywołań tej funkcji zwróci wartość TRUE?,D,is_int(135),0
+473,W języku JavaScript należy zapisać warunek który będzie spełniony gdy zmienna a będzie dowolną liczbą naturalną dodatnią (bez 0) lub gdy zmienna b będzie dowolną liczbą z przedziału domkniętego od 10 do 100. Użyte w tym warunku wyrażenie logiczne będzie miało postać,C,(a>0) || ((b>=10) && (b<=100)),0
+474,Dla każdej iteracji pętli wartość bieżącego elementu tablicy jest przypisywana do zmiennej a wskaźnik tablicy jest przesuwany o jeden aż do ostatniego elementu tablicy. Zdanie to jest prawdziwe dla instrukcji,D,foreach,0
+475,W języku JavaScript wynik działania instrukcji zmienna++; będzie taki sam jak instrukcji,B,zmienna+=1;,0
+476,W języku PHP zmienna predefiniowana $_SESSION zawiera,A,zmienne zarejestrowane w bieżącej sesji,0
+477,Przedstawiony kod źródłowy ma za zadanie wyświetlić,D,losowe liczby od 0 do 100 tak długo aż nie zostanie wylosowana wartość 0,1
+478,W języku JavaScript należy odwołać się do elementu zawartego w pierwszym paragrafie przedstawionego fragmentu strony HTML. Można to wykonać za pomocą funkcji,C,getElementByTagName("p")[0];,1
+479,O przedstawionym obiekcie języka JavaScript można powiedzieć że ma,D,dwie właściwości i jedną metodę,1
+480,W języku JavaScript stworzono funkcję o nazwie liczba_max porównującą trzy liczby naturalne pobrane z parametrów funkcji i zwracającą maksymalną z nich. Prawidłowe wywołanie takiej funkcji wraz z pobraniem jej wyniku będzie miało postać,D,var wynik=liczba_max(abc);,0
+481,Które z zadań programistycznych powinno być wykonane po stronie serwera?,B,Zapisanie danych pobranych z aplikacji internetowej w bazie danych,0
+482,Język JavaScrypt ma obsługę,A,obiektów DOM,0
+483,W prezentowanym kodzie PHP w miejscu kropek powinno znaleźć się polecenie,A,mysqli_fetch_row($zapytanie);,1
+484,Który z elementów dokumentacji aplikacji powinien znaleźć się w dokumentacji użytkownika?,B,Opis obsługi funkcji systemu,0
+485,Znacznik <s> w języku HTML powoduje,D,przekreślenie tekstu,0
+486,Metainformacja "Description" zawarta w pliku źródłowym HTML powinna zawierać,A,opis co znajduje się na stronie,1
+487,Który opis odnosi się do metody POST wysyłania formularza?,D,Jest wskazana gdy przesyłane są informacje poufne np. hasło numer telefonu czy numer karty kredytowej,0
+488,Atrybut value w polu formularza XHTML,D,wskazuje odpowiedź domyślną,1
+489,W języku HTML zapis < spowoduje wyświetlenie w przeglądarce znaku,D,<,0
+490,Przy użyciu jakiego znacznika HTML otrzymamy tekst napisany czcionką o stałej szerokości znaku który uwzględnia dodatkowe spacje tabulacje i znaki końca linii?,B,<pre> ... </pre>,0
+491,W celu uzyskania efektu widocznego na rysunku w kodzie HTML należy umieścić znacznik skrótu z atrybutem,C,title,1
+492,W HTML aby wstawić obrazek z tekstem przyległym znajdującym się pośrodku obrazka należy zapisać znacznik,B,<img src="/obrazek.png" alt="obraz2" align="middle"> tekst,0
+493,Który styl CSS pozwoli zdefiniować wyrównanie tekstu do prawej strony?,D,<p style="text-align: right">tekst</p>,0
+494,Przedstawiono kod tabeli 3x2. Której z modyfikacji w jej drugim wierszu należy dokonać aby tabela wyglądała jak na obrazku z niewidocznym wierszem?,C,<tr style="visibility: hidden">,1
+495,Który zapis znacznika <div> może wystąpić w dokumencie HTML tylko jeden raz a ponowne użycie tego zapisu spowoduje wygenerowanie błędów podczas walidacji dokumentu?,B,<div id="identyfikator">,0
+496,Przedstawiona linia kreskowana w stylu obramowania CSS jest określona właściwością,D,dashed,1
+497,Systemem zarządzania treścią pozwalającym na łatwe utworzenie i aktualizację serwisu WWW jest,A,CMS,0
+498,W podanym kodzie HTML przedstawiony styl CSS jest stylem,D,lokalnym,1
+499,Kolor zapisany w notacji heksadecymalnej #0000FF to,C,niebieski,0
+500,Które stwierdzenie odnosi się do skalowania obrazu?,C,Powoduje zmianę rozmiaru obrazu bez zmieniania ważnej zawartości wizualnej,0
+501,W języku HTML atrybutem znacznika video który włącza tryb odtwarzania w kółko jest,A,loop,0
+502,W języku HTML aby dodać animację FLASH (z rozszerzeniem .swf) na stronę internetową należy użyć znacznika,D,< object >,0
+503,Formatem plików dźwiękowych z kompresją bezstratną jest,C,FLAC,0
+504,Na tabeli muzyka przedstawionej na rysunku zostało wykonane następujące zapytanie SQL. Jaki wynik zwróci ta kwerenda?,B,pusty wynik,1
+505,Jaki wynik zwróci zapytanie z ramki wykonane na przedstawionej tabeli?,C,3,1
+506,W relacyjnym modelu baz danych krotkami nazywa się,D,wiersze tabeli z wyjątkiem wiersza nagłówkowego w którym umieszcza się nazwy kolumn,0
+507,Co można powiedzieć o normalizacji przedstawionej tabeli?,A,Tabela nie jest znormalizowana,1
+508,Które zapytanie SQL dla tabeli pracownicy utworzonej według schematu: id imie nazwisko plec zarobek obliczy osobno średni zarobek kobiet i średni zarobek mężczyzn?,A,SELECT AVG(zarobek) FROM pracownicy GROUP BY plec;,0
+509,Które polecenie SQL zamieni w tabeli tab w kolumnie kol wartość Ania na Zosia?,A,UPDATE tab SET kol='Zosia' WHERE kol='Ania';,0
+510,Aby w tworzonej w języku SQL tabeli praca dodać w kolumnie stawka warunek że musi przyjmować rzeczywiste wartości dodatnie mniejsze od 50 należy użyć zapisu,C,... stawka float CHECK(stawka>0 AND stawka<50.00),0
+511,W jaki sposób wykonanie podanej w ramce kwerendy SQL wpłynie na tabelę pracownicy?,A,Zmieni typ danych kolumny plec na znakowy o stałej długości 9,1
+512,Wykonując raport w systemie obsługi relacyjnych baz danych umożliwia się,A,analizę wybranych danych,0
+513,Przedstawiona instrukcja JavaScript wyświetli,D,false,1
+514,Która wartość tekstowa nie pasuje do podanego w ramce wzorca wyrażenia regularnego?,C,Jelenia Góra,1
+515,Który modyfikator wskazuje podany opis?,C,private,1
+516,Tworzenie i przypisanie do zmiennej tablicy asocjacyjnej zrealizuje się w PHP zapisem,D,$tab = array ("a" => 1 "b" => 2 "c" => 3);,0
+517,W której technologii nie jest możliwe przetwarzanie danych użytkownika wprowadzanych na stronie WWW?,A,CSS,0
+518,W programowaniu obiektowym w języku JavaScript użyty w przedstawionym kodzie zapis: this.zawod oznacza,B,metodę,1
+519,W języku PHP sumę logiczną oznacza operator,B,||,0
+520,W jakim formacie będzie wyświetlana data po uruchomieniu przedstawionego kodu?,D,Monday 10th July 2017,1
+521,Wynikiem działania pętli for w przedstawionym kodzie PHP jest wyświetlenie liczb,B,1 1,1
+522,W JavaScript wywołanie zdarzenia onKeydown nastąpi wtedy gdy klawisz,C,klawiatury został naciśnięty,0
+523,Po wykonaniu przedstawionego kodu JavaScript wyświetli się wartość,C,13,1
+524,Wciśnięcie przycisku o treści "niebieski" spowoduje wykonanie przedstawionego kodu JavaScript. Jaki będzie efekt jego działania?,C,Zmiana koloru tekstu "Przykładowy tekst" na niebieski,1
+525,Którego znacznika nie należy umieszczać w nagłówku dokumentu HTML?,A,<h2>,0
+526,Znacznik języka HTML który służy do oznaczenia fragmentu tekstu jako kodu komputerowego to,C,<code> </code>,0
+527,W języku HTML dla hiperłącza wartość atrybutu target która odpowiada za załadowanie strony do nowego okna lub karty to,B,_blank,0
+528,Znacznik <ins> w języku HTML służy do oznaczenia,C,tekstu który został dodany.,0
+529,Do określenia listy definicji w kodzie HTML używa się znacznika,A,<dl>,0
+530,Jaki rezultat zostanie wyświetlony po wykonaniu przedstawionego kodu HTML?,D,D,1
+531,W języku HTML aby scalić w pionie dwie sąsiednie komórki w kolumnie tabeli należy zastosować atrybut,B,rowspan,0
+532,Chcąc dodać do listy rozwijalnej przedstawionego formularza HTML możliwość zaznaczenia kilku opcji jednocześnie należy w znaczniku select dodać atrybut,C,multiple,1
+533,Jak nazywa się metoda dołączania arkusza stylów do dokumentu HTML użyta w przedstawionym kodzie?,C,Styl wpisany lokalny.,1
+534,Tekst paragrafu wyśrodkowany w pionie opisuje w CSS reguła,A,vertical-align: middle,0
+535,Dla akapitu zdefiniowano styl CSS. Które właściwości stylu CSS poprawnie opisują dla akapitu krój czcionki: Arial; rozmiar czcionki: 16 pt; styl czcionki: pochylenie?,B,p{font-family: Arial; font-size: 16pt; font-style: italic;},0
+536,W stylach CSS aby ustalić styl linii obramowania jako linię kreskową należy zastosować wartość,C,dashed,0
+537,W CSS symbolem jednostki miary wyrażonej w punktach edytorskich jest,C,pt,0
+538,Transformację w stylach CSS polegającą na zamianie tylko pierwszych liter wszystkich wyrazów na wielkie otrzymamy stosując polecenie,B,capitalize,0
+539,Podany styl tworzy obramowanie pojedyncze o następujących cechach:,A,krawędź górna jest koloru czerwonego krawędź prawa koloru niebieskiego krawędź dolna koloru zielonego krawędź lewa koloru żółtego.,1
+540,Która z operacji nie wpłynie na rozmiar / wielkość zajmowanej pamięci pliku graficznego?,A,Skalowanie obrazu za pomocą atrybutów HTML.,0
+541,Bitmapa jest obrazem,A,rastrowym.,0
+542,Jednostka ppi (pixels per inch),A,określa rozdzielczość obrazów rastrowych.,0
+543,Jaką funkcję pełni kwerenda krzyżowa w bazie MS Access?,D,Prezentuje zliczone wartości z pola i przyporządkowuje je w wiersze i kolumny.,0
+544,Funkcja CONCAT() w języku SQL odpowiada za,B,łączenie wyświetlanego tekstu.,0
+545,Na podstawie tabeli Towar wykonano następujące zapytanie SQL: Jaki będzie wynik tej operacji?,C,Papier ksero A4 Kredki 24 kolory Zeszyt A5 Zeszyt A5 w linie,1
+546,W tabeli produkt znajdują się przedmioty wyprodukowane po 2000 roku z polami nazwa i rok_produkcji. Klauzula SQL wyświetli listę przedmiotów wyprodukowanych,A,w roku 2017.,1
+547,Struktura prostych baz danych w których wszystkie dane są przechowywane w jednej tabeli nazywana jest modelem,C,jednorodnym.,0
+548,W przedstawionym diagramie bazy danych biblioteka elementy: czytelnik wypozyczenie i ksiazka są,C,encjami.,1
+549,W języku zapytań SQL aby dodać do tabeli Towar kolumnę rozmiar typu znakowego o maksymalnej długości 20 znaków należy wykonać polecenie,A,ALTER TABLE Towar ADD rozmiar varchar(20);,0
+550,Liczba 0x142 zapisana w kodzie skryptu JavaScript ma postać,D,szesnastkową.,0
+551,W aplikacjach internetowych tablice asocjacyjne to tablice w których,A,indeks jest łańcuchem tekstowym.,0
+552,Odwołaniem do imienia Agata zawartym w przedstawionej tablicy JavaScript jest element,B,Imiona[3];,1
+553,Specjalna metoda danej klasy stosowana w programowaniu obiektowym wywoływana automatycznie podczas tworzenia obiektuktórej podstawowym zadaniem jest zwykle zainicjowanie pól to,C,konstruktor.,0
+554,Wskaż poprawny zapis instrukcji zapisanej w języku JavaScript.,A,document.write("Liczba π z dokładnością do 2 miejsc po przecinku ≈ " + 3.14 );,0
+555,W języku skryptowym JavaScript operatory: || && należą do grupy operatorów,B,logicznych.,0
+556,Wskaż pętlę która w języku JavaScript wyświetli sześć kolejnych liczb parzystych.,B,for(i=2;i<=12;i+=2) {document.write(i);},0
+557,Wybierz poprawną definicję funkcji w języku JavaScript.,C,function nazwa_funkcji(argumenty) {instrukcje;},0
+558,W języku PHP zapisywanie danych do pliku realizuje funkcja?,B,fputs(),0
+559,Plikiem konfiguracyjnym który pozwala na zdefiniowanie ustawień PHP dla całego serwera jest,B,php.ini,0
+560,Efektem wykonania przedstawionego kodu PHP jest wyświetlenie komunikatu,B,warunek2,1
+561,Ile razy zostanie wykonana pętla zapisana w przedstawionym skrypcie PHP?,C,6,1
+562,Jaką wartość zwróci funkcja empty($a); zapisana w języku PHP gdy zmienna $a przyjmie wartość liczbową równą 0?,B,TRUE,0
+563,W języku JavaScript funkcja matematyczna Math.pow() służy do wyznaczenia,A,potęgi liczby.,0
+564,Jakie wartości muszą przyjmować zmienne w funkcji biblioteki mysqli aby połączyć się z serwerem i bazą danych?,D,adres serwera - $a nazwa bazy danych - $d login - $b hasło - $c,0
+565,W którym z bloków należy umieścić warunek pętli?,C,C,1
+566,Ile razy należy zapisać instrukcję warunkową aby zaimplementować w języku programowania przedstawiony algorytm?,B,Dwa razy.,1
+567,W języku C aby zadeklarować stałą należy użyć,A,const,0
+568,Które z wyrażeń logicznych zapisanych w języku C sprawdza czy zmienna o nazwie zm1 należy do przedziału (6 203> ?,C,(zm1 > 6) && (zm1 <= 203),0
+569,Kwalifikatory dostępu: private protected i public definiują mechanizm,C,hermetyzacji.,0
+570,bool gotowe=true;
+cout << gotowe;
+Co zostanie wypisane w wyniku wykonania przedstawionych instrukcji?,B,1,0
+571,Za pomocą którego słowa kluczowego deklaruje się zmienną w języku JavaScript?,A,var,0
+572,Zadaniem przedstawionej pętli jest,C,utworzenie dziesięciu obiektów typu Ksiazka.,1
+573,Która z deklaracji funkcji w języku C++ ma parametr wejściowy typu rzeczywistego a zwraca wartość całkowitą?,B,int fun1(float a);,0
+574,Jednym z wariantów testów jednostkowych jest analiza ścieżek która polega na,C,określeniu punktu początkowego i końcowego oraz badaniu możliwych dróg pomiędzy tymi punktami.,0
+575,Który sposób komentowania w języku PHP pozwala na zapis bloku komentarza w kilku liniach?,C,/* */,0
+576,Pole lub zbiór pól jednoznacznie identyfikujący każdy pojedynczy wiersz w tabeli w bazie danych to klucz,B,podstawowy.,0
+577,W języku SQL aby zmienić strukturę tabeli np. poprzez dodanie lub usunięcie kolumny należy zastosować polecenie,D,ALTER TABLE,0
+578,Atrybut kolumny NOT NULL jest wymagany w przypadku,A,klucza podstawowego.,0
+579,Aby za pomocą polecenia SELECT wyświetlić nazwiska osób mieszkających na osiedlu tak aby te nazwiska nie powtarzały się należy zapisać zapytanie w postaci,B,SELECT DISTINCT nazwisko FROM mieszkancy;,0
+580,Baza danych zawiera dane multimedialne co wiąże się z przechowywaniem dużych ilości danych binarnych. Do takich danych należy zastosować typ,A,BLOB,0
+581,W tabeli Recepta pola Imie i Nazwisko dotyczą pacjenta na którego recepta jest wydana. Którą kwerendę należy zastosować aby dla wszystkich recept uzyskać datę wystawienia recepty oraz imię i nazwisko lekarza wystawiającego?,D,SELECT Lekarz.Imie Lekarz.Nazwisko DataWystawienia FROM Recepta JOIN Lekarz ON Recepta.Lekarz_id = Lekarz.id;,1
+582,W bazach danych do prezentacji danych spełniających określone warunki należy utworzyć,A,raport.,0
+583,Które polecenie służy do zmiany wartości o jeden w polu RokStudiów w tabeli Studenci dla studentów którzy studiują na roku 1÷4?,D,UPDATE Studenci SET RokStudiow = RokStudiow+1 WHERE RokStudiow < 5;,0
+584,Wskaż różnicę pomiędzy poleceniami DROP TABLE i TRUNCATE TABLE.,B,DROP TABLE usuwa tabelę a TRUNCATE TABLE usuwa wszystkie dane pozostawiając pustą tabelę.,0
+585,Aby nadać użytkownikowi uprawnienia do tabel w bazie danych należy zastosować polecenie,A,GRANT,0
+586,Aby przesłać dane za pomocą funkcji mysqli_query() w skrypcie PHP który wstawia do bazy danych dane pobrane z formularza ze strony internetowej jako jednego z parametrów należy użyć kwerendy,A,INSERT INTO,0
+587,Przedstawiony fragment kodu PHP działa poprawnie i ma za zadanie wyświetlić na stronie internetowej dane pobrane kwerendą z bazy danych. Z ilu pól zostaną wyświetlone dane?,C,Z trzech pól.,1
+588,Na rysunku przedstawiono strukturę bloków strony internetowej. Który z fragmentów formatowania strony pasuje do takiego układu? (Dla uproszczenia pominięto właściwości koloru tła wysokości i czcionki),B,#pierwszy {float:left; width:30%;}
+#drugi {float:left; width:70%;}
+#trzeci {float:left; width:70%;}
+#czwarty {clear:both; },1
+589,Wskaż nazwę Systemu Zarządzania Treścią którego logo zostało przedstawione na rysunku.,B,Joomla!,1
+590,Który kod języka HTML da efekt formatowania jak na przedstawionym rysunku?,C,< p > W tym < i > paragrafie < b > zobaczysz < /b > sposoby formatowania < /i > tekstu w HTML < /p >,1
+591,Który znacznik należy do znaczników definiujących listy w języku HTML?,D,< ul >,0
+592,Który z kodów HTML opisuje przedstawioną tabelę? (Dla uproszczenia pominięto zapis stylu obramowania tabeli i komórek),B,B,1
+593,Przedstawione w języku CSS formatowanie czcionki będzie obowiązywać dla,D,całego kodu HTML jako formatowanie domyślne dla wszystkich elementów strony.,1
+594,Której właściwości CSS należy użyć aby zdefiniować marginesy wewnętrzne dla elementu?,D,padding,0
+595,W kodzie CSS zastosowano formatowanie elementu listy przy czym żadne inne formatowanie CSS nie zostało zdefiniowane. Zastosowane formatowanie sprawi że,B,po najechaniu kursorem na element listy zmieni się kolor tekstu na Maroon.,1
+596,Wartości: static relative fixed absolute oraz sticky można przypisać do właściwości,B,position,0
+597,Aby dostosować stronę internetową dla niewidomych należy nadać wyświetlanym za pomocą znacznika img obrazom atrybut,A,alt,0
+598,Którą czynność należy wykonać podczas obróbki zdjęcia w edytorze grafiki aby białe tło zamienić na przezroczystość?,A,Dodać kanał alfa.,0
+599,Aby zwiększyć szybkość działania strony zawierającej grafikę o wymiarach 2000 px na 760 px należy zmniejszyć rozmiary grafiki,A,w programie graficznym.,0
+600,Przedstawiona linia kodu została zapisana w języku,D,JavaScript,1
+601,Na stronie internetowej znajduje się formularz do którego należy zaprogramować następujące funkcje:
+- walidacja: w trakcie wypełniania formularza w czasie rzeczywistym jest sprawdzana poprawność danych
+- przesyłanie danych: po wypełnieniu formularza i jego zatwierdzeniu dane są przesyłane do bazy danych na serwerze
+Aby zaimplementować tę funkcjonalność w możliwie najprostszy sposób należy zapisać,D,walidację w języku JavaScript a przesyłanie danych w skrypcie PHP.,0
+602,Globalne tablice do przechowywania danych o ciastkach i sesjach: $ _ COOKIE oraz $ _ SESSION są częścią języka,C,PHP,0
+603,Podczas walidacji dokumentu HTML5 pojawił się komunikat o treści: „Error: Element head is missing a required instance of child element title”. Oznacza to że w dokumencie,C,nie zdefiniowano elementu < title > w części < head > dokumentu.,0
+604,Którego protokołu należy użyć aby przesłać pliki strony internetowej na serwer hostingowy?,A,FTP,0
+605,Przedstawiony blok reprezentuje czynność,D,podjęcia decyzji.,1
+606,Aby zadeklarować pole klasy do którego mają dostęp jedynie metody tej klasy i pole to nie jest dostępne dla klas pochodnych należy użyć kwalifikatora dostępu,B,private.,0
+607,Pętla while powinna być wykonywana tak długo jak długo zmienna x będzie przyjmowała wartości z przedziału obustronnie otwartego (-2 5). Zapis tego warunku w nagłówku pętli za pomocą języka PHP ma postać,A,($x > -2) && ($x < 5),0
+608,Po wykonaniu się przedstawionego fragmentu kodu języka C/C++ zmiennej o nazwie zmienna2 zostanie,A,przypisany adres zmiennej o nazwie zmienna1.,1
+609,W języku PHP float reprezentuje typ,D,zmiennoprzecinkowy.,0
+610,Którym słowem kluczowym w języku z rodziny C należy posłużyć się aby przypisać alternatywną nazwę dla istniejącego typu danych?,D,typedef,0
+611,Instrukcja for może być zastąpiona instrukcją,B,while,0
+612,Przedstawiony kod źródłowy zapisany w języku C++ ma za zadanie dla wprowadzanych dowolnych całkowitych liczb różnych od zera wypisać,C,tylko liczby parzyste,1
+613,DOM dostarcza metod i własności które w języku JavaScript pozwalają na,D,pobieranie i modyfikowanie elementów strony wyświetlonej przez przeglądarkę,0
+614,Testy dotyczące skalowalności oprogramowania mają za zadanie sprawdzić czy aplikacja,C,potrafi działać przy zakładanym i większym obciążeniu.,0
+615,Który z komentarzy opisuje zadanie zdefiniowanej w języku PHP funkcji?,A,/*Funkcjazwracawartośćwyższązdwóchpodanychgdysąrówne zwraca wartość -1 */,1
+616,W relacyjnych bazach danych jeżeli dwie tabele są połączone za pomocą ich kluczy głównych mamy do czynienia z relacją,A,1..1,0
+617,Normalizacja tabel jest procesem który ma na celu,D,sprawdzenie i optymalizację bazy danych.,0
+618,Wbudowanym w pakiet XAMPP narzędziem służącym do zarządzania bazą danych jest,B,phpMyAdmin,0
+619,Wskaż zapytanie w którym dane zostały posortowane.,D,SELECT imie nazwisko FROM mieszkancy WHERE wiek > 18 ORDER BY wiek;,0
+620,Funkcją agregującą zwracającą liczbę rekordów jest,C,COUNT,0
+621,Dana jest tabela zwierzeta z polami nazwa gatunek gromada cechy dlugosc_zycia. Dla dowolnego zestawu danych aby wyświetlić nazwy tych zwierząt które żyją przynajmniej 20 lat oraz są ssakami należy wydać zapytanie:,C,SELECT nazwa FROM zwierzeta WHERE dlugosc_zycia >=20 AND gromada = ‘ssak‘;,0
+622,W tabeli personel znajdują się pola: imie nazwisko pensja staz. Aby otrzymać średnią pensję pracowników dla których staż wynosi od 10 do 20 lat pracy włącznie należy wykonać kwerendę:,B,SELECT AVG(pensja) FROM personel WHERE staz >= 10 AND staz <= 20;,0
+623,Zapytanie z klauzulą JOIN stosuje się aby,D,uzyskać wyniki z dwóch tabel pozostających ze sobą w relacji.,0
+624,Aby usunąć tabelę należy zastosować kwerendę,C,DROP TABLE,0
+625,Za pomocą przedstawionego zapytania w tabeli zostanie,C,dodana kolumna nazwa2 typu zmiennoprzecinkowego.,1
+626,Które tabele zostaną sprawdzone za pomocą przedstawionego polecenia?,A,Tabele które zmieniły się od ostatniej kontroli lub nie zostały poprawnie zamknięte.,1
+627,Jakie uprawnienia będzie miał użytkownik jan po wykonaniu na bazie danych przedstawionych poleceń?,A,Będzie mógł zmienić strukturę tabeli klienci.,1
+628,Witryna internetowa wysyła dane poufne za pomocą formularza do kodu PHP. Która metoda wysłania jest najbardziej bezpieczna?,D,Metoda POST za pomocą protokołu HTTPS,0
+629,Przedstawiony fragment kodu PHP ma za zadanie umieścić dane znajdujące się w zmiennych $a $b $c w bazie danych w tabeli dane. Tabela dane zawiera cztery pola z czego pierwsze to autoinkrementowany klucz główny. Które z poleceń powinno być przypisane do zmiennej $zapytanie?,D,INSERT INTO dane VALUES (NULL '$a' '$b' '$c');,1
+630,Witryna internetowa ma mieć przedstawioną strukturę bloków. Aby uzyskać ten układ należy znacznikom sekcji przypisać właściwości w następujący sposób:,D,float tylko dla bloków: 2 3 4; clear dla bloku 5,1
+631,Podstawowym zadaniem systemu CMS jest oddzielenie treści serwisu informacyjnego od jego wyglądu. Efekt ten jest uzyskany poprzez generowanie zawartości,A,z bazy danych oraz wyglądu ze zdefiniowanego szablonu.,0
+632,W języku HTML znacznik < i > nadaje znakom taki sam wizualny efekt jak znacznik,B,< em >,0
+633,Przedstawiono tabelę zdefiniowaną kodem HTML bez formatowania CSS. Który z fragmentów kodu HTML odpowiada pierwszemu wierszowi tabeli?,D,D,1
+634,Aby obraz wstawiony kodem HTML mógł być interpretowany przez programy wspomagające osoby niewidzące należy zdefiniować atrybut,A,alt,0
+635,Na obrazie przedstawiono efekt formatowania stylami CSS oraz kod HTML generujący ten przykład. Zakładając że marginesy wewnętrzne wynoszą 50 px a zewnętrzne wynoszą 20 px styl CSS dla obrazu ma postać,C,img {
+background-color: Teal;
+border: 4px solid black;
+padding: 50px;
+margin: 20px;
+},1
+636,W kodzie CSS zdefiniowano cztery klasy formatowania których następnie użyto do formatowania paragrafów. Efekt widoczny na rysunku powstał po zastosowaniu klasy o nazwie,B,format2,1
+637,W jakim formacie należy zapisać obraz aby mógł być wyświetlony na stronie internetowej z zachowaniem przezroczystości?,C,PNG,0
+638,Na potrzeby strony internetowej przygotowano grafikę rysunek.jpg o rozmiarze: szerokość 200 px wysokość 100 px. Aby wyświetlić tę grafikę jako miniaturę – pomniejszoną z zachowaniem proporcji można zastosować znacznik,B,< img src = "rysunek.png" style = "width: 50px" >,0
+639,Której funkcji edytora grafiki rastrowej należy użyć aby przygotować rysunek do wyświetlenia na stronie w ten sposób żeby było widoczne tylko to co znajduje się w ramce?,C,Kadrowanie,1
+640,Przedstawiony fragment dokumentu HTML z kodem JavaScript spowoduje że po wciśnięciu przycisku,B,obraz2.png zostanie ukryty.,1
+641,Co spowoduje fragment skryptu w języku JavaScript?,C,Przypisze zmiennej s wartość odpowiadającą długości napisu ze zmiennej n.,1
+642,Przedstawiony kod PHP nawiązuje połączenie z serwerem bazy danych. Jakiego typu operacje powinny się znaleźć w instrukcji warunkowej w miejscu trzech kropek?,B,Obsługa błędu połączenia.,1
+643,Który znacznik należący do sekcji head dokumentu HTML w wersji 5 jest wymagany przez walidator języka HTML a jego brak jest zgłaszany jako błąd (error)?,A,title,0
+644,Za pomocą którego protokołu można opublikować stronę internetową na serwerze?,A,FTP,0
+645,W przedstawionym fragmencie algorytmu zastosowano,B,jedną pętlę.,1
+646,Do optymalnej realizacji algorytmu szukającego największej z trzech podanych liczb a b i c wystarczy zastosować,C,dwa warunki.,0
+647,Które wyrażenie logiczne w języku PHP sprawdza czy zmienna1 należy do przedziału jednostronnie domkniętego <-5 10)?,C,$zmienna1 >= -5 && $zmienna1 < 10,0
+648,Przedstawiona w języku C++ definicja typu wyliczeniowego sprawi że enumerator CZWARTEK będzie równy,D,liczbie 4,1
+649,Tablica tab[] jest wypełniona dowolnymi liczbami całkowitymi. Jaka wartość znajdzie się w zmiennej zm2 po wykonaniu prezentowanego fragmentu kodu?,C,Średnia arytmetyczna liczb z tablicy.,1
+650,W języku JavaScript metoda getElementById odwołuje się do,C,znacznika HTML o podanym id.,0
+651,W języku C++ funkcja zwracająca wynik potęgowania działająca na dwóch parametrach wejściowych: liczbie x i wykładniku w ma deklarację,B,int potega(int x int w);,0
+652,Aby skorzystać ze skryptu zapisanego w pliku przyklad.js należy połączyć go ze stroną za pomocą kodu,B,< script src="przyklad.js" > < /script >,0
+653,Programista napisał w języku C++ pętlę która miała obliczyć wynik działania 5! (5! = 1 * 2 * 3 * 4 * 5). Popełnił jednak błąd logiczny polegający na tym że,D,w drugim parametrze pętli powinno być porównanie i < 6 zamiast i < 5.,1
+654,Który ze sposobów komentowania kodu nie jest stosowany w kodzie PHP?,D,< !-- komentarz -- >,0
+655,Klucz obcy w tabeli jest tworzony po to aby,D,zdefiniować relację 1..n wiążącą go z kluczem głównym innej tabeli.,0
+656,Które ze stwierdzeń dotyczących klucza podstawowego jest prawdziwe?,A,Jest unikalny w obrębie tabeli.,0
+657,W języku SQL aby zmodyfikować dane w tabeli należy posłużyć się poleceniem,B,UPDATE,0
+658,Które zapytanie SQL posłuży do wyszukania z przedstawionej tabeli wyłącznie wszystkich imion i nazwisk pacjentów urodzonych przed rokiem 2002?,C,SELECT imie nazwisko FROM Pacjenci WHERE rok_urodzenia < 2002;,1
+659,Aby utworzyć tabelę należy się posłużyć poleceniem,C,CREATE TABLE,0
+660,Wynikiem uruchomienia zapytania SQL jest,C,liczba uczniów których średnia ocen wynosi 5.,1
+661,Aby wyświetlić jedynie imię nazwisko i ulicę wszystkich mieszkańców należy zastosować zapytanie,D,SELECT imie nazwisko ulica FROM Mieszkancy JOIN Adresy ON Mieszkancy.Adresy_id = Adresy.id;,1
+662,Przedstawiona baza danych zawiera trzy tabele i dwie relacje. Aby wyświetlić dane wszystkich lekarzy przypisanych do konkretnego pacjenta należy przyrównać klucze,C,Lekarze.id = Pacjenci.Lekarze_id,1
+663,W wyniku połączenia relacją kluczy głównych dwóch tabel otrzymuje się relację typu,C,jeden do jednego.,0
+664,Obiektem służącym w bazie danych do podsumowywania wyświetlania i wydruków danych jest,A,raport.,0
+665,Za pomocą polecenia ALTER TABLE można,C,modyfikować strukturę tabeli.,0
+666,W bazie danych zdefiniowano tabelę Mieszkancy wypełnioną danymi. Aby usunąć tę tabelę wraz z zawartością należy posłużyć się poleceniem,A,DROP TABLE Mieszkancy;,0
+667,Aby odebrać uprawnienia użytkownikowi należy zastosować polecenie,B,REVOKE,0
+668,Aby aplikacja PHP mogła komunikować się z bazą danych niezbędne jest w pierwszej kolejności wywołanie funkcji o nazwie,B,mysqli_connect,0
+669,Który z wymienionych znaczników języka HTML może posłużyć do budowy struktury strony internetowej?,B,< aside >,0
+670,Logo systemu CMS o nazwie Joomla! to,B,B,1
+671,Język HTML dysponuje nagłówkami do budowania hierarchii treści. Nagłówki te występują jedynie w zakresie,B,h1 – h6,0
+672,W języku HTML zdefiniowano odnośnik do strony internetowej. Aby strona otwierała się w nowym oknie lub zakładce przeglądarki należy dopisać do definicji odnośnika atrybut,C,target = "_blank",1
+673,Która lista jest interpretacją przedstawionego kodu?,C,C,1
+674,Na potrzeby strony internetowej zdefiniowano styl. Styl będzie przypisany tylko do niektórych znaczników (np. niektórych nagłówków kilku akapitów). W takim wypadku aby przypisać styl do kilku konkretnych znaczników najlepiej jest zastosować,A,klasę.,1
+675,Aby zdefiniować krój czcionki w stylu CSS należy użyć właściwości,D,font-family,0
+676,Który z obrazów został sformatowany za pomocą przedstawionego stylu CSS?,A,A,1
+677,Aby na stronie internetowej wyświetlić logo którego tło jest przezroczyste należy zastosować format,C,PNG,0
+678,Aby obraz umieszczony na stronie internetowej automatycznie skalował się do rozmiaru ekranu na którym jest wyświetlana strona należy,D,jego szerokość ustawić w wartościach procentowych.,0
+679,W procesie przygotowywania grafiki na stronę internetową należy wyciąć jedynie jej fragment. Taka operacja to,B,kadrowanie.,0
+680,W aplikacji internetowej komunikat powinien pojawiać się tylko wtedy gdy dany użytkownik jest na stronie po raz pierwszy. Którą funkcję PHP należy w tym celu zastosować?,B,setcookie,0
+681,Przedstawiona definicja formularza została zastosowana na stronie internetowej która wysyła dane do pliku zapisanego w języku PHP. W której tablicy będą dostępne dane z formularza?,B,$ _ POST,1
+682,W skrypcie JavaScript zastosowano metodę DOM getElementsByClassName('akapit'). Metoda ta odwoła się do akapitu,D,< p class="akapit" > akapit4 < /p >,0
+683,Dla przedstawionego fragmentu kodu walidator HTML zwróci błąd ponieważ,D,nie domknięto cudzysłowu.,1
+684,Program FileZilla może posłużyć do,C,publikacji strony internetowej.,0
+685,Która wartość zostanie wypisana przez algorytm?,D,15,1
+686,Wskaż złożoność obliczeniową algorytmu naiwnego (zwykłego) wyszukiwania minimum w zbiorze liczb?,A,O(n),0
+687,Do którego pola klasy Dane możliwy będzie dostęp z zewnątrz poprzez nazwę obiektu utworzonego jako instancja tej klasy?,B,Do pola $a.,1
+688,W języku JavaScript utworzono obiekt. Aby pobrać wartość własności w można zapisać,B,obiekt.w,1
+689,W języku PHP zainicjowano zmienną $a wartością 1. Porównanie $a === $b przyjmuje wartość true w przypadku gdy zmienna $b jest zainicjowana wartością,C,1,0
+690,Która pętla w języku PHP pozwala wykonać operacje na wszystkich elementach tablicy z automatycznym indeksowaniem jej elementów?,C,foreach,0
+691,Wskaż wynik wykonania przedstawionego kodu PHP jeżeli zmienna tab jest tablicą.,C,sarny dziki,1
+692,Zapisaną językiem PHP funkcję o nazwie policz wywołano z argumentem $Z = 1. Jaki wynik zostanie zwrócony?,A,13,1
+693,Wskaż funkcję JavaScript za pomocą której można obliczyć połowę kwadratu liczby przekazanej jako argument.,C,function wynik(a) { return a*a/2; },0
+694,Która z przedstawionych funkcji języka PHP zamieni słowo "kota" na słowo "mysz" w napisie "ala ma kota"?,D,str_replace("kota" "mysz" "ala ma kota");,0
+695,Która z przedstawionych metod pozwoli wypisać w języku JavaScript komunikat w konsoli przeglądarki internetowej?,D,console.log("test");,0
+696,Polecenie wysyłane do serwera bazy danych polegające na zbieraniu poszukiwaniu lub modyfikowaniu danych w bazie jest nazywane,B,kwerendą.,0
+697,Kolumna pełniąca rolę klucza głównego w tabeli musi,B,zawierać unikalne wartości.,0
+698,Która z wbudowanych funkcji agregujących języka SQL oblicza średnią wartości we wskazanej kolumnie?,B,AVG,0
+699,Aby w wyniku zapytania wyeliminować powtarzające się wiersze należy użyć klauzuli,C,DISTINCT,0
+700,Za pomocą którego polecenia SQL można usunąć z tabeli artykuły wiersze zawierające słowo "sto" znajdujące się w dowolnym miejscu pola tresc?,C,DELETE FROM artykuly WHERE tresc LIKE "%sto%";,0
+701,W bazie danych sklepu istnieją dwie tabele powiązane relacją: produkty oraz ceny. Tabela oceny zawiera dowolną liczbę ocen klientów dla danego produktu opisaną polami: id ocena (pole numeryczne) produktID (klucz obcy). Aby wskazać maksymalną ocenę dla produktu o ID równym 10 należy posłużyć się zapytaniem,B,SELECT MAX(ocena) FROM oceny WHERE produktID = 10;,0
+702,Aby zmodyfikować strukturę tabeli w bazie MySQL należy wykonać polecenie,A,ALTER TABLE,0
+703,Za pomocą którego zapytania Administrator odbierze prawo przeglądania oraz aktualizacji danych w bazie gazeta dla użytkownika redaktor?,A,REVOKE SELECT UPDATE ON gazeta.* FROM 'redaktor'@'localhost';,0
+704,Za pomocą której funkcji języka PHP można ustanowaić połączenie z bazą danych o nazwie zwierzaki?,D,$polacz = mysqli_connect('localhost' 'root' '' 'zwierzaki');,0
+705,Po uszkodzeniu serwera bazy danych aby możliwe najsprawniej przywrócić działanie kompletnej bazy należy użyć,C,aktualnej wersji kopii zapasowej.,0
+706,Która z przedstawionych grup znaczników HTML zawiera znaczniki służące do grupowania elementów i tworzenia struktur dokumentu?,D,div article header,0
+707,Który zapis w języku HTML jest deklaracją kodowania znaków w dokumencie?,C,< meta charset="UTF-8" >,0
+708,Który zapis w dokumencie HTML pozwala na połączenie z zewnętrznym arkuszem stylów o nazwie style.css?,A,< link rel="stylesheet" href="style.css" >,0
+709,Który znacznik HTML jest elementem blokowym?,A,p,0
+710,Ile maksymalnie należy użyć znaczników < td > w tabeli o trzech kolumnach i trzech wierszach niezawierającej złączeń komórek i wiersza nagłówkowego?,C,9,0
+711,Atrybutem określającym lokalizację pliku graficznego dla znacznika < img > jest,B,src,0
+712,Formatowanie CSS akapitu określa styl szarej ramki o cechach:,A,linia kropkowa; grubość 2 px; marginesy pomiędzy tekstem a ramką 15 px.,1
+713,Który selektor formatuje akapity tekstu o klasie tekst oraz element blokowy o ID obrazki?,A,p.tekst div#obrazki,0
+714,Pogrubienie tekstu za pomocą znacznika < b > można uzyskać także przy wykorzystaniu właściwości CSS,B,font-weight,0
+715,Aby w języku CSS ustawić czerwony kolor dla tekstu można użyć stylu,A,color: rgb(25500);,0
+716,Za pomocą którego zapisu zostanie utworzony w dokumencie HTML element wyświetlający obraz kotek.jpg z tekstem alternatywnym "obrazek kotka"?,D,< img src="kotek.jpg" alt="obrazek kotka" >,0
+717,Wskaż poprawne stwierdzenie dotyczące przedstawionego kodu HTML.,C,Kod może nie działać w przeglądarce jeśli nie obsługuje ona HTML5.,1
+718,Które zdarzenie pozwala wykonać kod w języku JavaScript w chwili wysyłania formularza HTML i zablokować lub pozwolić na jego wysłanie?,C,onSubmit,0
+719,W kodzie JavaScript pobrano element za pomocą metody getElementById. Aby zmodyfikować zawartość (treść) elementu można użyć właściwości,D,innerHTML,0
+720,Przedstawiona linia kodu zapisana językiem PHP ma za zadanie,C,zdefiniować stałą o nazwie OSOBA.,1
+721,Walidacja pól formularzy polega na sprawdzeniu,D,czy wprowadzone dane spełniają określone reguły.,0
+722,Zgodnie z regułami walidacji HTML5 poprawnym zapisem znacznika hr jest,A,< hr >,0
+723,Użytkownik wprowadził adres nieistniejącego zasobu na serwerze. Próba połączenia wygeneruje błąd,B,404,0
+724,Program o nazwie FileZilla pozwala na,D,publikację strony internetowej na odległym serwerze.,0
+725,Który odnośnik jest prawidłowo zdefiniowany?,D,< a href="http://strona.pl">strona,0
+726,W którym standardzie języka hipertekstowego zostały wprowadzone do składni znaczniki sekcji < footer > < header > < nav >?,B,HTML5,0
+727,Selektor klasy w kaskadowych arkuszach stylów należy zdefiniować za pomocą symbolu,A,. (kropka),0
+728,W języku CSS aby uzyskać efekt pochylenia tekstu należy użyć właściwości,B,font-style,0
+729,Dla którego akapitu zastosowano przedstawioną właściwość stylu CSS? border-radius: 20%;,B,B,1
+730,Aby za pomocą CSS zdefiniować przedstawione opływanie obrazu tekstem należy w stylu obrazu wprowadzić zapis,D,float: right;,1
+731,Pojęcie "front-end" stosowane w kontekście tworzenia stron WWW odnosi się do,D,interfejsu strony internetowej związanego z technologiami działającymi po stronie przeglądarki internetowej.,0
+732,Który zestaw pojęć definiuje interfejs użytkownika strony internetowej?,B,Przyciski menu interakcja użytkownika z aplikacją.,0
+733,Na rysunku pokazano schemat rozmieszczenia bloków na stronie WWW w której jego części umieszcza się zwykle stopkę strony?,D,5,1
+734,Aby zweryfikować poprawność składni kodu CSS można użyć,B,walidatora,0
+735,Który z poniższych przykładów kodu HTML5 zostanie zakwalifikowany przez walidator HTML jako błędny?,D,<p class= "stl"><style>.a{color:#F00}</style>tekst</p>,0
+736,Aby bezpiecznie przesłać pliki strony internetowej na serwer WWW można użyć protokołu,B,SFTP,0
+737,Kolor zielony w notacji szesnastkowej skróconej można zapisać w CSS sekwencją,B,#0F0,0
+738,Składowymi modelu barw CMYK są kolory:,B,cyjan magenta żółty i czarny.,0
+739,Powstające podczas zapisu pliku graficznego prostokątne zniekształcenia obrazu są charakterystyczne dla formatu,D,JPEG z dużym stopniem kompresji stratnej.,1
+740,Który rastrowy format graficzny jest obsługiwany przez przeglądarki internetowe?,C,PNG,0
+741,Proporcje obrazu 16:9 (przy założeniu że piksel ma kształt kwadratu) można uzyskać przy rozdzielczości,C,1366 na 768 pikseli.,0
+742,Który z wymienionych formatów umożliwia zapis dźwięku i obrazu?,B,MP4,0
+743,Podczas strumieniowego przesyłania cyfrowego materiału wideo parametrem wpływającym na jakość obrazu i dźwięku jest przepływność. Wielkość ta opisuje liczbę,C,bitów transmitowanych w jednostce czasu.,0
+744,Funkcja COUNT języka SQL realizuje,B,zliczanie rekordów wybranych kwerendą.,0
+745,Ustalenie relacji pomiędzy tabelami w systemie bazodanowym MySQL umożliwia klauzula,C,REFERENCES,0
+746,Aby wyświetlić rekordy z tabeli pracownicy tylko dla pracowników którzy skończyli 26 lat należy użyć zapytania,D,SELECT * FROM pracownicy WHERE wiek > 25;,0
+747,W bazach danych relacja wiele-do-wielu pomiędzy tabelami występuje gdy,A,wielu wierszom tabeli A przypada wiele wierszy tabeli B.,0
+748,Aby zaimportować plik z danymi SQL do bazy danych MySQL można użyć narzędzia,C,phpMyAdmin.,0
+749,Aby w systemie MySQL nadać użytkownikowi prawo do nadawania i zmiany uprawnień innym użytkownikom należy zastosować klauzulę,B,GRANT OPTION,0
+750,Aby wykonać kopię zapasową bazy danych MySQL można posłużyć się,B,eksportem bazy.,0
+751,Którą integralność opisuje cytowana definicja?
+"... polega na wprowadzeniu i utrzymaniu powiązań pomiędzy tabelami. Związki te tworzy się przez umieszczenie kolumny pełniącej rolę klucza głównego tabeli w innej tabeli co nadaje kolumnie funkcję klucza obcego.",C,Referencyjną.,0
+752,Czynnością zalecaną przed wykonaniem kopii bezpieczeństwa danych w bazie MySQL jest,D,sprawdzenie integralności bazy i ewentualnie jej naprawa.,0
+753,Zmienna typu integer lub int może przechowywać,C,liczbę całkowitą.,0
+754,Wskaż typ złożony,D,class,0
+755,Wskaż instrukcję iteracyjną,A,for,0
+756,Debugger to oprogramowanie którego zadaniem jest,D,dynamiczna analiza uruchomionego programu w celu wykrycia przyczyn nieprawidłowego działania.,0
+757,Którą wartość będzie przechowywała zmienna a po wykonaniu przedstawionej sekwencji instrukcji języka PHP?,C,11,1
+758,Który framework został opracowany dla skryptowego języka PHP?,C,Symfony.,0
+759,Formularz którego fragment przedstawiono został obsłużony w skrypcie PHP. Wskaż prawidłowo zapisane pobranie wartości wprowadzonej do pola edycyjnego,D,$name = $ _ POST['imie'];,1
+760,Aby przetestować poprawność działania kodu JavaScript należy użyć,D,konsoli w przeglądarce internetowej.,0
+761,Wskaż komentarz wieloliniowy w języku PHP,C,/* */,0
+762,CAPTCHA to technika zabezpieczeń na stronach WWW pozwalająca,C,potwierdzić że dane z formularza są wysyłane przez człowieka.,0
